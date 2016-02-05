@@ -1,0 +1,2240 @@
+### Countries start here
+YEAR: 1931
+CREATE: (Country) "ENG"
+DEFINE: {FullName:The United Kingdom of Great Britain and Ireland}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Bureaucratic}
+.: {Centralization:Hegemony}
+.: {Legitimacy:Elective}
+.: {Inertia:47.00}
+.: {MP:169}
+.: {Mobilized:0.2}
+.: {Strain:0}
+.: {Leadership:Good}
+.: {Training:Good}
+.: {Artillery:Good}
+.: {Tactics:Mixed}
+.: {NavalPower:Global}
+.: {AirPower:Global}
+.: {Infantry1:31}
+.: {Infantry2:48}
+.: {Infantry3:16}
+.: {Armor1:19}
+.: {Armor2:16}
+.: {Armor3:8}
+.: {Destroyers1:50}
+.: {Destroyers2:66}
+.: {Destroyers3:16}
+.: {Cruisers1:38}
+.: {Cruisers2:28}
+.: {Cruisers3:8}
+.: {Battleships1:12}
+.: {Battleships2:20}
+.: {Fighters1:22}
+.: {Fighters2:10}
+.: {Bombers1:8}
+.: {Bombers2:4}
+MIDFAS: {16/75, 26/75, 20/55, 29/45, 4/1, 5/1}
+CREATE: (Country) "FRA"
+DEFINE: {FullName:The French Social Democratic Republic}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Bureaucratic}
+.: {Centralization:Unitary}
+.: {Legitimacy:Elective}
+.: {Inertia:31.00}
+.: {MP:223}
+.: {Mobilized:0.1}
+.: {Strain:0}
+.: {Leadership:Excellent}
+.: {Training:Excellent}
+.: {Artillery:Excellent}
+.: {Tactics:Defensive}
+.: {NavalPower:Average}
+.: {AirPower:Average}
+.: {Infantry1:22}
+.: {Infantry2:56}
+.: {Infantry3:33}
+.: {Armor1:26}
+.: {Armor2:24}
+.: {Armor3:19}
+.: {Destroyers1:22}
+.: {Destroyers2:42}
+.: {Destroyers3:10}
+.: {Cruisers1:10}
+.: {Cruisers2:22}
+.: {Cruisers3:5}
+.: {Battleships1:4}
+.: {Battleships2:4}
+.: {Fighters1:21}
+.: {Fighters2:14}
+.: {Bombers1:10}
+.: {Bombers2:5}
+MIDFAS: {2/20, 14/55, 30/80, 4/1, 5/20, 45/90}
+CREATE: (Country) "RUS"
+DEFINE: {FullName:The Russian Empire}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Aristocratic}
+.: {Centralization:Hegemony}
+.: {Legitimacy:Hereditary}
+.: {Inertia:74.00}
+.: {MP:340}
+.: {Mobilized:0.1}
+.: {Strain:0}
+.: {Leadership:Good}
+.: {Training:Average}
+.: {Artillery:Poor}
+.: {Tactics:Mass}
+.: {NavalPower:Weak}
+.: {AirPower:Weak}
+.: {Infantry1:51}
+.: {Infantry2:85}
+.: {Infantry3:34}
+.: {Armor1:31}
+.: {Armor2:27}
+.: {Armor3:3}
+.: {Destroyers1:24}
+.: {Destroyers2:24}
+.: {Destroyers3:4}
+.: {Cruisers1:22}
+.: {Cruisers2:14}
+.: {Cruisers3:2}
+.: {Battleships1:8}
+.: {Battleships2:8}
+.: {Fighters1:5}
+.: {Bombers1:2}
+MIDFAS: {20/90, 30/90, 12/5, 1/20, 15/1, 22/5}
+CREATE: (Country) "USA"
+DEFINE: {FullName:The United States of America}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Aristocratic}
+.: {Centralization:Confederation}
+.: {Legitimacy:Elective}
+.: {Inertia:40.50}
+.: {MP:280}
+.: {Mobilized:0.2}
+.: {Strain:0}
+.: {Leadership:Excellent}
+.: {Training:Average}
+.: {Artillery:Average}
+.: {Tactics:Mass}
+.: {NavalPower:Global}
+.: {AirPower:Average}
+.: {Infantry1:36}
+.: {Infantry2:72}
+.: {Infantry3:36}
+.: {Armor1:32}
+.: {Armor2:28}
+.: {Armor3:14}
+.: {Destroyers1:84}
+.: {Destroyers2:112}
+.: {Destroyers3:28}
+.: {Cruisers1:64}
+.: {Cruisers2:48}
+.: {Cruisers3:16}
+.: {Battleships1:22}
+.: {Battleships2:32}
+.: {Fighters1:18}
+.: {Fighters2:9}
+.: {Bombers1:7}
+.: {Bombers2:3}
+MIDFAS: {0/0, 45/90, 35/45, 5/15, 10/1, 5/1}
+CREATE: (Country) "ITA"
+DEFINE: {FullName:The Kingdom of Italy}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Aristocratic}
+.: {Centralization:Hegemony}
+.: {Legitimacy:Elective}
+.: {Inertia:32.50}
+.: {MP:94}
+.: {Mobilized:0.1}
+.: {Strain:0}
+.: {Leadership:Average}
+.: {Training:Average}
+.: {Artillery:Average}
+.: {Tactics:Combined Arms}
+.: {NavalPower:Average}
+.: {AirPower:Strong}
+.: {Infantry1:9}
+.: {Infantry2:23}
+.: {Infantry3:14}
+.: {Armor1:11}
+.: {Armor2:10}
+.: {Armor3:8}
+.: {Destroyers1:11}
+.: {Destroyers2:20}
+.: {Destroyers3:6}
+.: {Cruisers1:5}
+.: {Cruisers2:10}
+.: {Cruisers3:3}
+.: {Battleships1:2}
+.: {Battleships2:6}
+.: {Fighters1:14}
+.: {Fighters2:9}
+.: {Bombers1:6}
+.: {Bombers2:3}
+MIDFAS: {25/90, 20/85, 35/85, 5/10, 5/10, 10/15}
+CREATE: (Country) "AUS"
+DEFINE: {FullName:The United Republics of Austria and Bohemia}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Cartels}
+.: {Centralization:Coalition}
+.: {Legitimacy:Elective}
+.: {Inertia:9.50}
+.: {MP:18}
+.: {Mobilized:0.6}
+.: {Strain:0}
+.: {Leadership:Excellent}
+.: {Training:Poor}
+.: {Artillery:Poor}
+.: {Tactics:Defensive}
+.: {NavalPower:Nonexistent}
+.: {AirPower:Weak}
+.: {Infantry1:2}
+.: {Infantry2:6}
+.: {Infantry3:3}
+.: {Armor1:2}
+.: {Armor2:2}
+.: {Armor3:1}
+.: {Fighters1:1}
+MIDFAS: {20/1, 5/1, 10/55, 15/10, 35/95, 15/25}
+CREATE: (Country) "HUN"
+DEFINE: {FullName:The Hungarian Empire}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Aristocratic}
+.: {Centralization:Hegemony}
+.: {Legitimacy:Hereditary}
+.: {Inertia:39.00}
+.: {MP:17}
+.: {Mobilized:0.6}
+.: {Strain:0}
+.: {Leadership:Poor}
+.: {Training:Poor}
+.: {Artillery:Poor}
+.: {Tactics:Offensive}
+.: {NavalPower:Weak}
+.: {AirPower:Weak}
+.: {Infantry1:2}
+.: {Infantry2:5}
+.: {Infantry3:2}
+.: {Armor1:1}
+.: {Armor2:1}
+.: {Destroyers2:1}
+MIDFAS: {35/85, 20/75, 25/15, 5/10, 10/1, 5/1}
+CREATE: (Country) "NET"
+DEFINE: {FullName:The Republic of the Netherlands}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Bureaucratic}
+.: {Centralization:Unitary}
+.: {Legitimacy:Elective}
+.: {Inertia:41.00}
+.: {MP:24}
+.: {Mobilized:0.2}
+.: {Strain:0}
+.: {Leadership:Good}
+.: {Training:Good}
+.: {Artillery:Good}
+.: {Tactics:Defensive}
+.: {NavalPower:Average}
+.: {AirPower:Weak}
+.: {Infantry1:3}
+.: {Infantry2:6}
+.: {Infantry3:3}
+.: {Armor1:2}
+.: {Armor2:1}
+.: {Destroyers1:2}
+.: {Destroyers2:3}
+.: {Cruisers1:2}
+.: {Cruisers2:1}
+.: {Battleships2:1}
+MIDFAS: {5/50, 35/90, 35/90, 3/10, 5/15, 17/20}
+CREATE: (Country) "PRR"
+DEFINE: {FullName:The People's Republic of the Ruhr}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Military}
+.: {Centralization:Unitary}
+.: {Legitimacy:Appointed}
+.: {Inertia:19.00}
+.: {MP:196}
+.: {Mobilized:0.2}
+.: {Strain:0}
+.: {Leadership:Good}
+.: {Training:Excellent}
+.: {Artillery:Excellent}
+.: {Tactics:Offensive}
+.: {NavalPower:Weak}
+.: {AirPower:Weak}
+.: {Infantry1:20}
+.: {Infantry2:50}
+.: {Infantry3:30}
+.: {Armor1:24}
+.: {Armor2:22}
+.: {Armor3:17}
+.: {Destroyers1:12}
+.: {Destroyers2:22}
+.: {Destroyers3:7}
+.: {Cruisers1:6}
+.: {Cruisers2:11}
+.: {Cruisers3:4}
+.: {Battleships1:2}
+.: {Battleships2:6}
+.: {Fighters1:10}
+.: {Fighters2:6}
+.: {Bombers1:4}
+.: {Bombers2:2}
+MIDFAS: {10/20, 30/75, 10/5, 10/50, 5/1, 35/90}
+CREATE: (Country) "GFA"
+DEFINE: {FullName:The German Federalist Alliance}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Military}
+.: {Centralization:Hegemony}
+.: {Legitimacy:Appointed}
+.: {Inertia:15.00}
+.: {MP:110}
+.: {Mobilized:0.2}
+.: {Strain:0}
+.: {Leadership:Excellent}
+.: {Training:Excellent}
+.: {Artillery:Excellent}
+.: {Tactics:Combined Arms}
+.: {NavalPower:Weak}
+.: {AirPower:Average}
+.: {Infantry1:11}
+.: {Infantry2:28}
+.: {Infantry3:17}
+.: {Armor1:13}
+.: {Armor2:12}
+.: {Armor3:9}
+.: {Destroyers1:6}
+.: {Destroyers2:12}
+.: {Destroyers3:4}
+.: {Cruisers1:3}
+.: {Cruisers2:6}
+.: {Cruisers3:2}
+.: {Battleships1:2}
+.: {Battleships2:4}
+.: {Fighters1:10}
+.: {Fighters2:7}
+.: {Bombers1:5}
+.: {Bombers2:2}
+MIDFAS: {10/65, 35/50, 15/35, 3/5, 2/1, 35/90}
+CREATE: (Country) "BWR"
+DEFINE: {FullName:The Bavarian Workers' Council Republic}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Bureaucratic}
+.: {Centralization:Confederation}
+.: {Legitimacy:Elective}
+.: {Inertia:8.00}
+.: {MP:31}
+.: {Mobilized:0.1}
+.: {Strain:0}
+.: {Leadership:Good}
+.: {Training:Good}
+.: {Artillery:Excellent}
+.: {Tactics:Defensive}
+.: {NavalPower:Nonexistent}
+.: {AirPower:Average}
+.: {Infantry1:3}
+.: {Infantry2:7}
+.: {Infantry3:4}
+.: {Armor1:3}
+.: {Armor2:2}
+.: {Armor3:2}
+.: {Fighters1:2}
+.: {Fighters2:1}
+.: {Bombers1:1}
+MIDFAS: {10/1, 5/1, 33/90, 5/1, 10/50, 37/90}
+CREATE: (Country) "ALS"
+DEFINE: {FullName:Lorraine}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Bureaucratic}
+.: {Centralization:Unitary}
+.: {Legitimacy:Elective}
+.: {Inertia:21.00}
+.: {MP:7}
+.: {Mobilized:0.2}
+.: {Strain:0}
+.: {Leadership:Average}
+.: {Training:Average}
+.: {Artillery:Average}
+.: {Tactics:Defensive}
+.: {NavalPower:Nonexistent}
+.: {AirPower:Weak}
+.: {Infantry2:1}
+MIDFAS: {5/1, 5/1, 40/85, 5/1, 5/5, 40/85}
+CREATE: (Country) "TUR"
+DEFINE: {FullName:The Sublime State of Turkey}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Military}
+.: {Centralization:Unitary}
+.: {Legitimacy:Appointed}
+.: {Inertia:26.00}
+.: {MP:115}
+.: {Mobilized:0.4}
+.: {Strain:0}
+.: {Leadership:Good}
+.: {Training:Average}
+.: {Artillery:Average}
+.: {Tactics:Mixed}
+.: {NavalPower:Average}
+.: {AirPower:Weak}
+.: {Infantry1:13}
+.: {Infantry2:33}
+.: {Infantry3:19}
+.: {Armor1:12}
+.: {Armor2:11}
+.: {Armor3:9}
+.: {Destroyers1:12}
+.: {Destroyers2:22}
+.: {Destroyers3:7}
+.: {Cruisers1:5}
+.: {Cruisers2:11}
+.: {Cruisers3:4}
+.: {Battleships1:3}
+.: {Battleships2:7}
+.: {Fighters1:5}
+.: {Fighters2:3}
+.: {Bombers1:2}
+.: {Bombers2:1}
+MIDFAS: {10/55, 25/75, 10/20, 40/98, 5/1, 10/1}
+CREATE: (Country) "IND"
+DEFINE: {FullName:The Imperial Domain of India}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Military}
+.: {Centralization:Hegemony}
+.: {Legitimacy:Appointed}
+.: {Inertia:62.00}
+.: {MP:269}
+.: {Mobilized:0.1}
+.: {Strain:0}
+.: {Leadership:Poor}
+.: {Training:Poor}
+.: {Artillery:Average}
+.: {Tactics:Police}
+.: {NavalPower:Weak}
+.: {AirPower:Nonexistent}
+.: {Infantry1:33}
+.: {Infantry2:67}
+.: {Infantry3:33}
+.: {Armor1:15}
+.: {Armor2:13}
+.: {Armor3:6}
+.: {Destroyers1:10}
+.: {Destroyers2:13}
+.: {Destroyers3:3}
+.: {Cruisers1:8}
+.: {Cruisers2:6}
+.: {Cruisers3:2}
+.: {Battleships1:2}
+.: {Battleships2:4}
+MIDFAS: {20/75, 25/90, 15/55, 1/1, 20/5, 19/10}
+CREATE: (Country) "OCE"
+DEFINE: {FullName:The Imperial Domain of Australasia}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Military}
+.: {Centralization:Hegemony}
+.: {Legitimacy:Appointed}
+.: {Inertia:52.00}
+.: {MP:79}
+.: {Mobilized:0.1}
+.: {Strain:0}
+.: {Leadership:Average}
+.: {Training:Poor}
+.: {Artillery:Poor}
+.: {Tactics:Marine}
+.: {NavalPower:Weak}
+.: {AirPower:Weak}
+.: {Infantry1:9}
+.: {Infantry2:19}
+.: {Infantry3:9}
+.: {Armor1:4}
+.: {Armor2:4}
+.: {Armor3:2}
+.: {Destroyers1:3}
+.: {Destroyers2:4}
+.: {Destroyers3:1}
+.: {Cruisers1:2}
+.: {Cruisers2:2}
+.: {Battleships2:1}
+.: {Fighters1:1}
+MIDFAS: {20/80, 30/85, 20/75, 5/10, 15/5, 10/10}
+CREATE: (Country) "SAF"
+DEFINE: {FullName:The Imperial Domain of South Africa}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Military}
+.: {Centralization:Hegemony}
+.: {Legitimacy:Appointed}
+.: {Inertia:52.00}
+.: {MP:32}
+.: {Mobilized:0.1}
+.: {Strain:0}
+.: {Leadership:Good}
+.: {Training:Poor}
+.: {Artillery:Average}
+.: {Tactics:Police}
+.: {NavalPower:Weak}
+.: {AirPower:Weak}
+.: {Infantry1:4}
+.: {Infantry2:8}
+.: {Infantry3:4}
+MIDFAS: {20/75, 35/90, 10/55, 5/1, 15/5, 15/10}
+CREATE: (Country) "SWI"
+DEFINE: {FullName:The Federal Republic of Switzerland}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Bureaucratic}
+.: {Centralization:Federation}
+.: {Legitimacy:Elective}
+.: {Inertia:46.00}
+.: {MP:12}
+.: {Mobilized:0.0}
+.: {Strain:0}
+.: {Leadership:Average}
+.: {Training:Good}
+.: {Artillery:Good}
+.: {Tactics:Offensive}
+.: {NavalPower:Nonexistent}
+.: {AirPower:Weak}
+.: {Infantry1:1}
+.: {Infantry2:3}
+.: {Infantry3:1}
+MIDFAS: {10/80, 15/85, 55/90, 3/10, 7/5, 10/10}
+CREATE: (Country) "SWE"
+DEFINE: {FullName:The People's Republic of Sweden}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Military}
+.: {Centralization:Unitary}
+.: {Legitimacy:Appointed}
+.: {Inertia:26.00}
+.: {MP:26}
+.: {Mobilized:0.7}
+.: {Strain:0}
+.: {Leadership:Good}
+.: {Training:Poor}
+.: {Artillery:Average}
+.: {Tactics:Offensive}
+.: {NavalPower:Weak}
+.: {AirPower:Weak}
+.: {Infantry1:3}
+.: {Infantry2:9}
+.: {Infantry3:5}
+MIDFAS: {25/30, 10/30, 15/40, 10/1, 10/40, 30/80}
+CREATE: (Country) "NOR"
+DEFINE: {FullName:The Kingdom of Norway}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Aristocratic}
+.: {Centralization:Hegemony}
+.: {Legitimacy:Hereditary}
+.: {Inertia:39.00}
+.: {MP:7}
+.: {Mobilized:0.5}
+.: {Strain:0}
+.: {Leadership:Average}
+.: {Training:Average}
+.: {Artillery:Average}
+.: {Tactics:Defensive}
+.: {NavalPower:Weak}
+.: {AirPower:Weak}
+.: {Infantry2:1}
+MIDFAS: {35/85, 10/74, 30/65, 5/1, 10/10, 10/15}
+CREATE: (Country) "DMK"
+DEFINE: {FullName:The Kingdom of Denmark and Iceland}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Aristocratic}
+.: {Centralization:Hegemony}
+.: {Legitimacy:Hereditary}
+.: {Inertia:39.00}
+.: {MP:8}
+.: {Mobilized:0.5}
+.: {Strain:0}
+.: {Leadership:Average}
+.: {Training:Good}
+.: {Artillery:Average}
+.: {Tactics:Defensive}
+.: {NavalPower:Weak}
+.: {AirPower:Weak}
+.: {Infantry1:1}
+.: {Infantry2:2}
+.: {Infantry3:1}
+MIDFAS: {30/85, 25/90, 20/55, 10/1, 10/1, 5/1}
+CREATE: (Country) "SPA"
+DEFINE: {FullName:The Spanish Republic}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Bureaucratic}
+.: {Centralization:Unitary}
+.: {Legitimacy:Elective}
+.: {Inertia:26.00}
+.: {MP:73}
+.: {Mobilized:0.6}
+.: {Strain:0}
+.: {Leadership:Good}
+.: {Training:Average}
+.: {Artillery:Poor}
+.: {Tactics:Mixed}
+.: {NavalPower:Weak}
+.: {AirPower:Weak}
+.: {Infantry1:9}
+.: {Infantry2:24}
+.: {Infantry3:14}
+.: {Armor1:9}
+.: {Armor2:9}
+.: {Armor3:7}
+.: {Destroyers1:4}
+.: {Destroyers2:8}
+.: {Destroyers3:2}
+.: {Cruisers1:2}
+.: {Cruisers2:4}
+.: {Cruisers3:2}
+.: {Battleships1:1}
+.: {Battleships2:2}
+.: {Fighters1:4}
+.: {Fighters2:2}
+.: {Bombers1:2}
+MIDFAS: {20/30, 5/20, 35/75, 10/1, 15/15, 15/20}
+CREATE: (Country) "POR"
+DEFINE: {FullName:The Kingdom of Portugal}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Bureaucratic}
+.: {Centralization:Hegemony}
+.: {Legitimacy:Hereditary}
+.: {Inertia:38.50}
+.: {MP:23}
+.: {Mobilized:0.3}
+.: {Strain:0}
+.: {Leadership:Good}
+.: {Training:Average}
+.: {Artillery:Good}
+.: {Tactics:Mixed}
+.: {NavalPower:Strong}
+.: {AirPower:Strong}
+.: {Infantry1:2}
+.: {Infantry2:5}
+.: {Infantry3:2}
+.: {Destroyers2:2}
+MIDFAS: {30/85, 20/85, 25/75, 5/5, 10/5, 10/10}
+CREATE: (Country) "BEL"
+DEFINE: {FullName:The Republic of Belgium}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Bureaucratic}
+.: {Centralization:Unitary}
+.: {Legitimacy:Elective}
+.: {Inertia:31.00}
+.: {MP:25}
+.: {Mobilized:0.2}
+.: {Strain:0}
+.: {Leadership:Average}
+.: {Training:Average}
+.: {Artillery:Excellent}
+.: {Tactics:Defensive}
+.: {NavalPower:Weak}
+.: {AirPower:Weak}
+.: {Infantry1:2}
+.: {Infantry2:6}
+.: {Infantry3:3}
+.: {Armor1:1}
+.: {Armor2:1}
+.: {Destroyers2:1}
+MIDFAS: {5/45, 30/90, 45/95, 5/5, 5/5, 10/10}
+CREATE: (Country) "ROM"
+DEFINE: {FullName:The Kingdom of Romania}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Aristocratic}
+.: {Centralization:Hegemony}
+.: {Legitimacy:Hereditary}
+.: {Inertia:49.00}
+.: {MP:26}
+.: {Mobilized:0.2}
+.: {Strain:0}
+.: {Leadership:Average}
+.: {Training:Average}
+.: {Artillery:Poor}
+.: {Tactics:Mixed}
+.: {NavalPower:Nonexistent}
+.: {AirPower:Weak}
+.: {Infantry1:3}
+.: {Infantry2:6}
+.: {Infantry3:3}
+.: {Armor1:1}
+.: {Armor2:1}
+MIDFAS: {30/85, 0/10, 25/35, 15/1, 15/1, 15/1}
+CREATE: (Country) "SER"
+DEFINE: {FullName:The Kingdom of Serbia}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Aristocratic}
+.: {Centralization:Hegemony}
+.: {Legitimacy:Hereditary}
+.: {Inertia:49.00}
+.: {MP:27}
+.: {Mobilized:0.2}
+.: {Strain:0}
+.: {Leadership:Good}
+.: {Training:Poor}
+.: {Artillery:Poor}
+.: {Tactics:Offensive}
+.: {NavalPower:Weak}
+.: {AirPower:Weak}
+.: {Infantry1:3}
+.: {Infantry2:6}
+.: {Infantry3:3}
+.: {Armor1:1}
+.: {Armor2:1}
+.: {Destroyers2:1}
+MIDFAS: {30/85, 0/10, 25/35, 15/1, 15/1, 15/1}
+CREATE: (Country) "BUL"
+DEFINE: {FullName:The Kingdom of Bulgaria}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Aristocratic}
+.: {Centralization:Hegemony}
+.: {Legitimacy:Hereditary}
+.: {Inertia:49.00}
+.: {MP:10}
+.: {Mobilized:0.2}
+.: {Strain:0}
+.: {Leadership:Average}
+.: {Training:Average}
+.: {Artillery:Average}
+.: {Tactics:Defensive}
+.: {NavalPower:Nonexistent}
+.: {AirPower:Weak}
+.: {Infantry1:1}
+.: {Infantry2:2}
+.: {Infantry3:1}
+MIDFAS: {30/85, 0/10, 25/35, 15/1, 15/1, 15/1}
+CREATE: (Country) "GRE"
+DEFINE: {FullName:The Hellenic Republic of Greece}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Aristocratic}
+.: {Centralization:Federation}
+.: {Legitimacy:Elective}
+.: {Inertia:36.50}
+.: {MP:12}
+.: {Mobilized:0.2}
+.: {Strain:0}
+.: {Leadership:Good}
+.: {Training:Good}
+.: {Artillery:Average}
+.: {Tactics:Mixed}
+.: {NavalPower:Weak}
+.: {AirPower:Nonexistent}
+.: {Infantry1:1}
+.: {Infantry2:3}
+.: {Infantry3:1}
+MIDFAS: {20/45, 0/10, 25/85, 20/10, 10/15, 25/15}
+CREATE: (Country) "QIN"
+DEFINE: {FullName:The Empire of the Great Qing}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Bureaucratic}
+.: {Centralization:Hegemony}
+.: {Legitimacy:Hereditary}
+.: {Inertia:58.50}
+.: {MP:220}
+.: {Mobilized:0.3}
+.: {Strain:0}
+.: {Leadership:Excellent}
+.: {Training:Excellent}
+.: {Artillery:Poor}
+.: {Tactics:Defensive}
+.: {NavalPower:Weak}
+.: {AirPower:Weak}
+.: {Infantry1:35}
+.: {Infantry2:59}
+.: {Infantry3:23}
+.: {Armor1:17}
+.: {Armor2:15}
+.: {Armor3:1}
+.: {Destroyers1:13}
+.: {Destroyers2:13}
+.: {Destroyers3:2}
+.: {Cruisers1:12}
+.: {Cruisers2:8}
+.: {Cruisers3:1}
+.: {Battleships1:4}
+.: {Battleships2:4}
+.: {Fighters1:2}
+.: {Bombers1:1}
+MIDFAS: {20/95, 35/80, 15/15, 5/1, 10/1, 15/1}
+CREATE: (Country) "NRC"
+DEFINE: {FullName:The National Han Republic of China}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Military}
+.: {Centralization:Coalition}
+.: {Legitimacy:Elective}
+.: {Inertia:28.00}
+.: {MP:423}
+.: {Mobilized:0.3}
+.: {Strain:0}
+.: {Leadership:Good}
+.: {Training:Good}
+.: {Artillery:Good}
+.: {Tactics:Mass}
+.: {NavalPower:Weak}
+.: {AirPower:Weak}
+.: {Infantry1:45}
+.: {Infantry2:114}
+.: {Infantry3:68}
+.: {Armor1:52}
+.: {Armor2:48}
+.: {Armor3:37}
+.: {Destroyers1:26}
+.: {Destroyers2:47}
+.: {Destroyers3:16}
+.: {Cruisers1:12}
+.: {Cruisers2:24}
+.: {Cruisers3:8}
+.: {Battleships1:6}
+.: {Battleships2:14}
+.: {Fighters1:20}
+.: {Fighters2:14}
+.: {Bombers1:10}
+.: {Bombers2:5}
+MIDFAS: {15/5, 10/55, 35/75, 10/35, 10/45, 20/60}
+CREATE: (Country) "GXI"
+DEFINE: {FullName:The Confederation of Guangxi}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Aristocratic}
+.: {Centralization:Confederation}
+.: {Legitimacy:Hereditary}
+.: {Inertia:47.00}
+.: {MP:262}
+.: {Mobilized:0.2}
+.: {Strain:0}
+.: {Leadership:Good}
+.: {Training:Average}
+.: {Artillery:Average}
+.: {Tactics:Defensive}
+.: {NavalPower:Weak}
+.: {AirPower:Weak}
+.: {Infantry1:34}
+.: {Infantry2:68}
+.: {Infantry3:34}
+.: {Armor1:27}
+.: {Armor2:24}
+.: {Armor3:12}
+.: {Destroyers1:18}
+.: {Destroyers2:24}
+.: {Destroyers3:6}
+.: {Cruisers1:14}
+.: {Cruisers2:10}
+.: {Cruisers3:3}
+.: {Battleships1:4}
+.: {Battleships2:7}
+.: {Fighters1:8}
+.: {Fighters2:4}
+.: {Bombers1:3}
+.: {Bombers2:2}
+MIDFAS: {35/75, 10/75, 20/55, 10/1, 10/10, 15/1}
+CREATE: (Country) "YUN"
+DEFINE: {FullName:The State of Yunnan}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Aristocratic}
+.: {Centralization:Unitary}
+.: {Legitimacy:Hereditary}
+.: {Inertia:43.00}
+.: {MP:146}
+.: {Mobilized:0.0}
+.: {Strain:0}
+.: {Leadership:Poor}
+.: {Training:Poor}
+.: {Artillery:Poor}
+.: {Tactics:Antiquated}
+.: {NavalPower:Nonexistent}
+.: {AirPower:Nonexistent}
+.: {Infantry1:18}
+.: {Infantry2:36}
+.: {Infantry3:18}
+.: {Armor1:9}
+.: {Armor2:8}
+.: {Armor3:4}
+MIDFAS: {40/55, 0/10, 20/45, 5/10, 10/5, 25/5}
+CREATE: (Country) "TIB"
+DEFINE: {FullName:The Heavenly Domain of Tibet}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Aristocratic}
+.: {Centralization:Hegemony}
+.: {Legitimacy:Appointed}
+.: {Inertia:93.50}
+.: {MP:9}
+.: {Mobilized:0.0}
+.: {Strain:0}
+.: {Leadership:Poor}
+.: {Training:Poor}
+.: {Artillery:Poor}
+.: {Tactics:Antiquated}
+.: {NavalPower:Nonexistent}
+.: {AirPower:Nonexistent}
+.: {Infantry1:1}
+.: {Infantry2:2}
+MIDFAS: {50/90, 0/10, 20/1, 5/5, 5/10, 20/1}
+CREATE: (Country) "KOR"
+DEFINE: {FullName:The Kingdom of Korea}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Aristocratic}
+.: {Centralization:Hegemony}
+.: {Legitimacy:Hereditary}
+.: {Inertia:84.00}
+.: {MP:46}
+.: {Mobilized:0.2}
+.: {Strain:0}
+.: {Leadership:Average}
+.: {Training:Poor}
+.: {Artillery:Poor}
+.: {Tactics:Antiquated}
+.: {NavalPower:Weak}
+.: {AirPower:Nonexistent}
+.: {Infantry1:7}
+.: {Infantry2:11}
+.: {Infantry3:4}
+MIDFAS: {55/85, 20/85, 15/25, 0/10, 5/10, 5/1}
+CREATE: (Country) "AFG"
+DEFINE: {FullName:The Sultanate of Afghanistan}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Aristocratic}
+.: {Centralization:Hegemony}
+.: {Legitimacy:Hereditary}
+.: {Inertia:89.00}
+.: {MP:13}
+.: {Mobilized:0.0}
+.: {Strain:0}
+.: {Leadership:Good}
+.: {Training:Average}
+.: {Artillery:Poor}
+.: {Tactics:Defensive}
+.: {NavalPower:Nonexistent}
+.: {AirPower:Nonexistent}
+.: {Infantry1:1}
+.: {Infantry2:3}
+.: {Infantry3:1}
+MIDFAS: {55/85, 25/45, 10/15, 0/10, 5/1, 5/1}
+CREATE: (Country) "PER"
+DEFINE: {FullName:The Persian Empire}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Aristocratic}
+.: {Centralization:Hegemony}
+.: {Legitimacy:Hereditary}
+.: {Inertia:74.00}
+.: {MP:26}
+.: {Mobilized:0.0}
+.: {Strain:0}
+.: {Leadership:Good}
+.: {Training:Good}
+.: {Artillery:Poor}
+.: {Tactics:Mixed}
+.: {NavalPower:Weak}
+.: {AirPower:Nonexistent}
+.: {Infantry1:3}
+.: {Infantry2:6}
+.: {Infantry3:2}
+MIDFAS: {40/85, 30/80, 15/25, 0/10, 5/1, 10/1}
+CREATE: (Country) "ETH"
+DEFINE: {FullName:The Kingdom of Ethiopia}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Aristocratic}
+.: {Centralization:Hegemony}
+.: {Legitimacy:Hereditary}
+.: {Inertia:69.00}
+.: {MP:36}
+.: {Mobilized:0.0}
+.: {Strain:0}
+.: {Leadership:Average}
+.: {Training:Average}
+.: {Artillery:Average}
+.: {Tactics:Defensive}
+.: {NavalPower:Nonexistent}
+.: {AirPower:Nonexistent}
+.: {Infantry1:4}
+.: {Infantry2:9}
+.: {Infantry3:4}
+MIDFAS: {45/95, 15/75, 25/35, 0/10, 5/1, 10/1}
+CREATE: (Country) "COL"
+DEFINE: {FullName:The Dominion of Colombia}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Military}
+.: {Centralization:Unitary}
+.: {Legitimacy:Appointed}
+.: {Inertia:61.00}
+.: {MP:35}
+.: {Mobilized:0.2}
+.: {Strain:0}
+.: {Leadership:Poor}
+.: {Training:Average}
+.: {Artillery:Average}
+.: {Tactics:Mass}
+.: {NavalPower:Weak}
+.: {AirPower:Weak}
+.: {Infantry1:4}
+.: {Infantry2:8}
+.: {Infantry3:4}
+.: {Armor1:1}
+.: {Armor2:1}
+.: {Destroyers1:1}
+.: {Destroyers2:1}
+MIDFAS: {0/0, 55/85, 10/10, 0/10, 25/1, 10/10}
+CREATE: (Country) "BRZ"
+DEFINE: {FullName:The Democratic Republic of Brazil}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Military}
+.: {Centralization:Federation}
+.: {Legitimacy:Elective}
+.: {Inertia:18.00}
+.: {MP:85}
+.: {Mobilized:0.8}
+.: {Strain:0}
+.: {Leadership:Good}
+.: {Training:Average}
+.: {Artillery:Average}
+.: {Tactics:Partisan}
+.: {NavalPower:Average}
+.: {AirPower:Average}
+.: {Infantry1:13}
+.: {Infantry2:34}
+.: {Infantry3:20}
+.: {Armor1:12}
+.: {Armor2:11}
+.: {Armor3:9}
+.: {Destroyers1:12}
+.: {Destroyers2:22}
+.: {Destroyers3:7}
+.: {Cruisers1:5}
+.: {Cruisers2:11}
+.: {Cruisers3:4}
+.: {Battleships1:3}
+.: {Battleships2:7}
+.: {Fighters1:10}
+.: {Fighters2:6}
+.: {Bombers1:5}
+.: {Bombers2:2}
+MIDFAS: {20/1, 25/45, 15/65, 5/1, 5/55, 30/85}
+CREATE: (Country) "BRA"
+DEFINE: {FullName:The Empire of Brazil}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Military}
+.: {Centralization:Hegemony}
+.: {Legitimacy:Hereditary}
+.: {Inertia:52.50}
+.: {MP:75}
+.: {Mobilized:0.8}
+.: {Strain:0}
+.: {Leadership:Average}
+.: {Training:Good}
+.: {Artillery:Excellent}
+.: {Tactics:Police}
+.: {NavalPower:Average}
+.: {AirPower:Weak}
+.: {Infantry1:15}
+.: {Infantry2:30}
+.: {Infantry3:15}
+.: {Armor1:5}
+.: {Armor2:4}
+.: {Armor3:2}
+.: {Destroyers1:6}
+.: {Destroyers2:8}
+.: {Destroyers3:2}
+.: {Cruisers1:5}
+.: {Cruisers2:3}
+.: {Cruisers3:1}
+.: {Battleships1:1}
+.: {Battleships2:2}
+.: {Fighters1:1}
+MIDFAS: {25/75, 25/65, 15/45, 5/10, 5/1, 25/1}
+CREATE: (Country) "CEN"
+DEFINE: {FullName:The Democratic Republic of Central America}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Bureaucratic}
+.: {Centralization:Federation}
+.: {Legitimacy:Elective}
+.: {Inertia:16.00}
+.: {MP:35}
+.: {Mobilized:0.6}
+.: {Strain:0}
+.: {Leadership:Average}
+.: {Training:Average}
+.: {Artillery:Average}
+.: {Tactics:Defensive}
+.: {NavalPower:Average}
+.: {AirPower:Average}
+.: {Infantry1:4}
+.: {Infantry2:11}
+.: {Infantry3:6}
+MIDFAS: {0/0, 20/50, 30/75, 10/1, 5/25, 35/90}
+CREATE: (Country) "CHL"
+DEFINE: {FullName:The Republic of Chile}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Bureaucratic}
+.: {Centralization:Confederation}
+.: {Legitimacy:Elective}
+.: {Inertia:25.00}
+.: {MP:44}
+.: {Mobilized:0.2}
+.: {Strain:0}
+.: {Leadership:Good}
+.: {Training:Good}
+.: {Artillery:Good}
+.: {Tactics:Defensive}
+.: {NavalPower:Average}
+.: {AirPower:Average}
+.: {Infantry1:4}
+.: {Infantry2:11}
+.: {Infantry3:6}
+MIDFAS: {5/65, 25/50, 40/80, 10/1, 5/1, 15/10}
+CREATE: (Country) "ARG"
+DEFINE: {FullName:The Republic of Argentina}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Bureaucratic}
+.: {Centralization:Federation}
+.: {Legitimacy:Elective}
+.: {Inertia:29.00}
+.: {MP:64}
+.: {Mobilized:0.2}
+.: {Strain:0}
+.: {Leadership:Average}
+.: {Training:Average}
+.: {Artillery:Good}
+.: {Tactics:Mixed}
+.: {NavalPower:Average}
+.: {AirPower:Average}
+.: {Infantry1:6}
+.: {Infantry2:16}
+.: {Infantry3:9}
+.: {Armor1:3}
+.: {Armor2:3}
+.: {Armor3:2}
+.: {Destroyers1:3}
+.: {Destroyers2:6}
+.: {Destroyers3:2}
+.: {Cruisers1:1}
+.: {Cruisers2:3}
+.: {Cruisers3:1}
+.: {Battleships2:1}
+.: {Fighters1:2}
+.: {Fighters2:1}
+.: {Bombers1:1}
+MIDFAS: {0/0, 25/55, 45/85, 10/1, 5/1, 15/10}
+CREATE: (Country) "BOL"
+DEFINE: {FullName:The Great Bolivian Empire}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Aristocratic}
+.: {Centralization:Hegemony}
+.: {Legitimacy:Hereditary}
+.: {Inertia:27.00}
+.: {MP:55}
+.: {Mobilized:0.2}
+.: {Strain:0}
+.: {Leadership:Average}
+.: {Training:Excellent}
+.: {Artillery:Average}
+.: {Tactics:Grande Bolivaro}
+.: {NavalPower:Weak}
+.: {AirPower:Average}
+.: {Infantry1:5}
+.: {Infantry2:14}
+.: {Infantry3:8}
+.: {Armor1:2}
+.: {Armor2:1}
+.: {Armor3:1}
+.: {Destroyers1:1}
+.: {Destroyers2:2}
+.: {Fighters1:1}
+.: {Fighters2:1}
+MIDFAS: {15/95, 45/85, 20/15, 0/0, 10/1, 10/1}
+CREATE: (Country) "PAN"
+DEFINE: {FullName:The Dominion of Panama}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Military}
+.: {Centralization:Unitary}
+.: {Legitimacy:Appointed}
+.: {Inertia:61.00}
+.: {MP:1}
+.: {Mobilized:0.2}
+.: {Strain:0}
+.: {Leadership:Average}
+.: {Training:Average}
+.: {Artillery:Average}
+.: {Tactics:Mixed}
+.: {NavalPower:Nonexistent}
+.: {AirPower:Nonexistent}
+MIDFAS: {0/0, 55/85, 10/10, 0/10, 25/1, 10/10}
+CREATE: (Country) "VER"
+DEFINE: {FullName:The Emergency State of Veracruz}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Military}
+.: {Centralization:Unitary}
+.: {Legitimacy:Appointed}
+.: {Inertia:66.00}
+.: {MP:12}
+.: {Mobilized:0.8}
+.: {Strain:0}
+.: {Leadership:Poor}
+.: {Training:Average}
+.: {Artillery:Average}
+.: {Tactics:Mixed}
+.: {NavalPower:Nonexistent}
+.: {AirPower:Nonexistent}
+.: {Infantry1:2}
+.: {Infantry2:4}
+.: {Infantry3:2}
+MIDFAS: {5/35, 35/85, 30/25, 10/1, 10/1, 10/1}
+CREATE: (Country) "SON"
+DEFINE: {FullName:The State of Sonora}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Military}
+.: {Centralization:Hegemony}
+.: {Legitimacy:Appointed}
+.: {Inertia:47.00}
+.: {MP:19}
+.: {Mobilized:0.8}
+.: {Strain:0}
+.: {Leadership:Average}
+.: {Training:Average}
+.: {Artillery:Poor}
+.: {Tactics:Mixed}
+.: {NavalPower:Nonexistent}
+.: {AirPower:Nonexistent}
+.: {Infantry1:3}
+.: {Infantry2:7}
+.: {Infantry3:3}
+MIDFAS: {10/45, 30/90, 30/55, 5/5, 15/1, 10/15}
+CREATE: (Country) "RAD"
+DEFINE: {FullName:The Raiders of Zacatecas}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Military}
+.: {Centralization:Anarchy}
+.: {Legitimacy:Appointed}
+.: {Inertia:0.00}
+.: {MP:8}
+.: {Mobilized:1.0}
+.: {Strain:0}
+.: {Leadership:Average}
+.: {Training:Average}
+.: {Artillery:Poor}
+.: {Tactics:Partisan}
+.: {NavalPower:Nonexistent}
+.: {AirPower:Nonexistent}
+.: {Infantry1:5}
+.: {Infantry2:2}
+.: {Infantry3:2}
+.: {Armor1:2}
+MIDFAS: {10/20, 15/20, 30/20, 5/1, 30/78, 10/40}
+CREATE: (Country) "RIO"
+DEFINE: {FullName:The State of the Rio Grande}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Military}
+.: {Centralization:Unitary}
+.: {Legitimacy:Appointed}
+.: {Inertia:42.00}
+.: {MP:15}
+.: {Mobilized:0.8}
+.: {Strain:0}
+.: {Leadership:Average}
+.: {Training:Average}
+.: {Artillery:Average}
+.: {Tactics:Mixed}
+.: {NavalPower:Nonexistent}
+.: {AirPower:Nonexistent}
+.: {Infantry1:2}
+.: {Infantry2:5}
+.: {Infantry3:2}
+MIDFAS: {10/30, 30/85, 30/35, 10/10, 10/1, 10/1}
+CREATE: (Country) "MEX"
+DEFINE: {FullName:The Mexican Republic}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Bureaucratic}
+.: {Centralization:Federation}
+.: {Legitimacy:Elective}
+.: {Inertia:56.00}
+.: {MP:33}
+.: {Mobilized:0.8}
+.: {Strain:0}
+.: {Leadership:Poor}
+.: {Training:Average}
+.: {Artillery:Average}
+.: {Tactics:Police}
+.: {NavalPower:Weak}
+.: {AirPower:Weak}
+.: {Infantry1:6}
+.: {Infantry2:13}
+.: {Infantry3:6}
+.: {Armor1:3}
+.: {Armor2:2}
+.: {Armor3:1}
+.: {Destroyers1:2}
+.: {Destroyers2:2}
+.: {Cruisers1:2}
+.: {Cruisers2:1}
+MIDFAS: {10/45, 15/65, 45/85, 5/1, 10/5, 15/5}
+CREATE: (Country) "MIM"
+DEFINE: {FullName:The Empire of Mexico}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Aristocratic}
+.: {Centralization:Hegemony}
+.: {Legitimacy:Appointed}
+.: {Inertia:38.50}
+.: {MP:10}
+.: {Mobilized:0.8}
+.: {Strain:0}
+.: {Leadership:Good}
+.: {Training:Good}
+.: {Artillery:Average}
+.: {Tactics:Offensive}
+.: {NavalPower:Nonexistent}
+.: {AirPower:Nonexistent}
+.: {Infantry1:2}
+.: {Infantry2:4}
+.: {Infantry3:2}
+.: {Armor1:1}
+MIDFAS: {20/85, 35/80, 30/25, 5/1, 5/1, 5/1}
+CREATE: (Country) "MAY"
+DEFINE: {FullName:The Mayan Kingdom}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Military}
+.: {Centralization:Hegemony}
+.: {Legitimacy:Appointed}
+.: {Inertia:7.00}
+.: {MP:5}
+.: {Mobilized:0.9}
+.: {Strain:0}
+.: {Leadership:Ungodly}
+.: {Training:Average}
+.: {Artillery:Average}
+.: {Tactics:Quetzalcouatl}
+.: {NavalPower:Nonexistent}
+.: {AirPower:Strong}
+.: {Infantry2:1}
+.: {Infantry3:1}
+MIDFAS: {35/85, 25/55, 25/35, 3/1, 7/2, 5/1}
+CREATE: (Country) "OAX"
+DEFINE: {FullName:The Oaxaca Commune}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Military}
+.: {Centralization:Federation}
+.: {Legitimacy:Elective}
+.: {Inertia:25.00}
+.: {MP:14}
+.: {Mobilized:0.8}
+.: {Strain:0}
+.: {Leadership:Average}
+.: {Training:Average}
+.: {Artillery:Average}
+.: {Tactics:Mixed}
+.: {NavalPower:Nonexistent}
+.: {AirPower:Nonexistent}
+.: {Infantry1:10}
+.: {Infantry2:7}
+.: {Infantry3:3}
+MIDFAS: {10/45, 15/35, 25/75, 5/1, 5/55, 40/90}
+CREATE: (Country) "HAI"
+DEFINE: {FullName:The Freeman Republic of Haiti}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Bureaucratic}
+.: {Centralization:Unitary}
+.: {Legitimacy:Elective}
+.: {Inertia:51.00}
+.: {MP:12}
+.: {Mobilized:0.0}
+.: {Strain:0}
+.: {Leadership:Good}
+.: {Training:Average}
+.: {Artillery:Average}
+.: {Tactics:Mixed}
+.: {NavalPower:Weak}
+.: {AirPower:Weak}
+.: {Infantry1:1}
+.: {Infantry2:3}
+.: {Infantry3:1}
+MIDFAS: {0/0, 10/25, 55/95, 5/10, 10/25, 20/35}
+CREATE: (Country) "OMA"
+DEFINE: {FullName:The Sultanate of Oman}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Aristocratic}
+.: {Centralization:Hegemony}
+.: {Legitimacy:Hereditary}
+.: {Inertia:59.00}
+.: {MP:1}
+.: {Mobilized:0.0}
+.: {Strain:0}
+.: {Leadership:Average}
+.: {Training:Average}
+.: {Artillery:Average}
+.: {Tactics:Mixed}
+.: {NavalPower:Weak}
+.: {AirPower:Nonexistent}
+MIDFAS: {45/90, 35/85, 10/25, 0/0, 5/1, 5/5}
+CREATE: (Country) "YEM"
+DEFINE: {FullName:The Sultanate of Yemen}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Aristocratic}
+.: {Centralization:Hegemony}
+.: {Legitimacy:Hereditary}
+.: {Inertia:59.00}
+.: {MP:8}
+.: {Mobilized:0.0}
+.: {Strain:0}
+.: {Leadership:Average}
+.: {Training:Average}
+.: {Artillery:Average}
+.: {Tactics:Mixed}
+.: {NavalPower:Weak}
+.: {AirPower:Nonexistent}
+.: {Infantry1:1}
+.: {Infantry2:2}
+.: {Infantry3:1}
+MIDFAS: {45/90, 35/85, 10/25, 0/0, 5/1, 5/5}
+CREATE: (Country) "ABU"
+DEFINE: {FullName:The Sultanate of Abu Dhabi (why is this nation in the game}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Aristocratic}
+.: {Centralization:Hegemony}
+.: {Legitimacy:Hereditary}
+.: {Inertia:59.00}
+.: {MP:0}
+.: {Mobilized:0.0}
+.: {Strain:0}
+.: {Leadership:Average}
+.: {Training:Average}
+.: {Artillery:Average}
+.: {Tactics:Mixed}
+.: {NavalPower:Nonexistent}
+.: {AirPower:Nonexistent}
+MIDFAS: {45/90, 35/85, 10/25, 0/0, 5/1, 5/5}
+CREATE: (Country) "SIA"
+DEFINE: {FullName:The Holy Kingdom of Thailand}
+.: {Player:NPC}
+.: {Ruler:None}
+.: {Apparatus:Aristocratic}
+.: {Centralization:Hegemony}
+.: {Legitimacy:Hereditary}
+.: {Inertia:54.00}
+.: {MP:16}
+.: {Mobilized:0.0}
+.: {Strain:0}
+.: {Leadership:Average}
+.: {Training:Average}
+.: {Artillery:Poor}
+.: {Tactics:Offensive}
+.: {NavalPower:Weak}
+.: {AirPower:Nonexistent}
+.: {Infantry1:2}
+.: {Infantry2:4}
+.: {Infantry3:2}
+MIDFAS: {15/25, 20/55, 35/85, 5/1, 10/1, 15/45}
+### Regions start here
+CREATE: (Region) "Austria"
+DEFINE: {Population:6733267}
+.: {Development:34.2}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:AUS}
+CREATE: (Region) "Belgium"
+DEFINE: {Population:8267384}
+.: {Development:24.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:BEL}
+CREATE: (Region) "Denmark"
+DEFINE: {Population:3630703}
+.: {Development:18.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:DMK}
+CREATE: (Region) "Finland"
+DEFINE: {Population:3554237}
+.: {Development:19.1}
+.: {Acceptance:0.25}
+.: {Occupied:0.0}
+.: {Owner:RUS}
+CREATE: (Region) "France"
+DEFINE: {Population:42597364}
+.: {Development:36.2}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:FRA}
+CREATE: (Region) "Ruhr"
+DEFINE: {Population:39294678}
+.: {Development:38.2}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:PRR}
+CREATE: (Region) "Prussia"
+DEFINE: {Population:25538198}
+.: {Development:38.2}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:GFA}
+CREATE: (Region) "Bayern"
+DEFINE: {Population:10457824}
+.: {Development:38.2}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:BWR}
+CREATE: (Region) "Lorraine"
+DEFINE: {Population:1910265}
+.: {Development:30.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:ALS}
+CREATE: (Region) "Italy"
+DEFINE: {Population:41829623}
+.: {Development:36.2}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:ITA}
+CREATE: (Region) "Netherlands"
+DEFINE: {Population:8085126}
+.: {Development:36.2}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:NET}
+CREATE: (Region) "Norway"
+DEFINE: {Population:2877265}
+.: {Development:20.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:NOR}
+CREATE: (Region) "Sweden"
+DEFINE: {Population:6218189}
+.: {Development:22.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:SWE}
+CREATE: (Region) "Switzerland"
+DEFINE: {Population:4170120}
+.: {Development:32.2}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:SWI}
+CREATE: (Region) "Great Britain"
+DEFINE: {Population:47047652}
+.: {Development:40.2}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:ENG}
+CREATE: (Region) "Ireland"
+DEFINE: {Population:3002408}
+.: {Development:22.1}
+.: {Acceptance:0.75}
+.: {Occupied:0.0}
+.: {Owner:ENG}
+CREATE: (Region) "Greece"
+DEFINE: {Population:6475438}
+.: {Development:18.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:GRE}
+CREATE: (Region) "Portugal"
+DEFINE: {Population:6961823}
+.: {Development:22.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:POR}
+CREATE: (Region) "Spain"
+DEFINE: {Population:23781985}
+.: {Development:24.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:SPA}
+CREATE: (Region) "Australia"
+DEFINE: {Population:6594139}
+.: {Development:16.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:OCE}
+CREATE: (Region) "New Zealand"
+DEFINE: {Population:1521881}
+.: {Development:12.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:OCE}
+CREATE: (Region) "Canada"
+DEFINE: {Population:10764505}
+.: {Development:18.1}
+.: {Acceptance:0.10}
+.: {Occupied:0.0}
+.: {Owner:USA}
+CREATE: (Region) "United States"
+DEFINE: {Population:126928386}
+.: {Development:19.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:USA}
+CREATE: (Region) "Albania"
+DEFINE: {Population:1007003}
+.: {Development:16.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:ITA}
+CREATE: (Region) "Bulgaria"
+DEFINE: {Population:6027000}
+.: {Development:16.0}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:NAN}
+CREATE: (Region) "Bulgaria proper"
+DEFINE: {Population:5622880}
+.: {Development:16.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:BUL}
+CREATE: (Region) "Edirne"
+DEFINE: {Population:535128}
+.: {Development:20.1}
+.: {Acceptance:0.75}
+.: {Occupied:0.0}
+.: {Owner:TUR}
+CREATE: (Region) "Czechoslovakia"
+DEFINE: {Population:14066928}
+.: {Development:38.2}
+.: {Acceptance:0.75}
+.: {Occupied:0.0}
+.: {Owner:AUS}
+CREATE: (Region) "Hungary"
+DEFINE: {Population:8846195}
+.: {Development:28.2}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:HUN}
+CREATE: (Region) "Poland"
+DEFINE: {Population:29064575}
+.: {Development:20.1}
+.: {Acceptance:0.25}
+.: {Occupied:0.0}
+.: {Owner:RUS}
+CREATE: (Region) "Romania"
+DEFINE: {Population:14456938}
+.: {Development:18.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:ROM}
+CREATE: (Region) "Serbia"
+DEFINE: {Population:10435044}
+.: {Development:18.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:SER}
+CREATE: (Region) "Croatia"
+DEFINE: {Population:4293836}
+.: {Development:18.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:SER}
+CREATE: (Region) "RUSSIA"
+DEFINE: {Population:174212000}
+.: {Development:8.0}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:NAN}
+CREATE: (Region) "Western Russia"
+DEFINE: {Population:107716591}
+.: {Development:14.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:RUS}
+CREATE: (Region) "Siberia"
+DEFINE: {Population:71811060}
+.: {Development:8.0}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:RUS}
+CREATE: (Region) "Azerbaijan"
+DEFINE: {Population:2172212}
+.: {Development:18.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:TUR}
+CREATE: (Region) "Argentina"
+DEFINE: {Population:12157839}
+.: {Development:20.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:ARG}
+CREATE: (Region) "Northern Brazil"
+DEFINE: {Population:13676122}
+.: {Development:18.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:BRA}
+CREATE: (Region) "Southern Brazil"
+DEFINE: {Population:20423314}
+.: {Development:22.2}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:BRZ}
+CREATE: (Region) "Chile"
+DEFINE: {Population:4358290}
+.: {Development:18.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:CHL}
+CREATE: (Region) "Colombia"
+DEFINE: {Population:8043761}
+.: {Development:20.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:COL}
+CREATE: (Region) "Mexico"
+DEFINE: {Population:17175000}
+.: {Development:20.0}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:NAN}
+CREATE: (Region) "Sonora"
+DEFINE: {Population:1460529}
+.: {Development:20.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:SON}
+CREATE: (Region) "Rio Grande"
+DEFINE: {Population:1573313}
+.: {Development:20.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:RIO}
+CREATE: (Region) "Veracruz"
+DEFINE: {Population:1129778}
+.: {Development:26.2}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:VER}
+CREATE: (Region) "Durango"
+DEFINE: {Population:457240}
+.: {Development:18.2}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:RAD}
+CREATE: (Region) "Sinaloa"
+DEFINE: {Population:1667053}
+.: {Development:24.2}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:MIM}
+CREATE: (Region) "Oaxaca"
+DEFINE: {Population:2111875}
+.: {Development:24.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:OAX}
+CREATE: (Region) "Yucatan"
+DEFINE: {Population:603221}
+.: {Development:22.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:MAY}
+CREATE: (Region) "Central Mexico"
+DEFINE: {Population:8539287}
+.: {Development:26.2}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:MEX}
+CREATE: (Region) "Peru"
+DEFINE: {Population:5590352}
+.: {Development:18.1}
+.: {Acceptance:0.75}
+.: {Occupied:0.0}
+.: {Owner:BOL}
+CREATE: (Region) "Uruguay"
+DEFINE: {Population:1737028}
+.: {Development:18.1}
+.: {Acceptance:0.75}
+.: {Occupied:0.0}
+.: {Owner:BRZ}
+CREATE: (Region) "Venezuela"
+DEFINE: {Population:3354108}
+.: {Development:20.1}
+.: {Acceptance:0.75}
+.: {Occupied:0.0}
+.: {Owner:COL}
+CREATE: (Region) "Bolivia"
+DEFINE: {Population:2445268}
+.: {Development:20.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:BOL}
+CREATE: (Region) "Costa Rica"
+DEFINE: {Population:510470}
+.: {Development:20.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:CEN}
+CREATE: (Region) "Cuba"
+DEFINE: {Population:3938158}
+.: {Development:20.1}
+.: {Acceptance:0.25}
+.: {Occupied:0.0}
+.: {Owner:USA}
+CREATE: (Region) "Dominican"
+DEFINE: {Population:1274053}
+.: {Development:20.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:SPA}
+CREATE: (Region) "Ecuador"
+DEFINE: {Population:1983146}
+.: {Development:20.1}
+.: {Acceptance:0.75}
+.: {Occupied:0.0}
+.: {Owner:BOL}
+CREATE: (Region) "El Salvador"
+DEFINE: {Population:1470154}
+.: {Development:20.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:CEN}
+CREATE: (Region) "Guatemala"
+DEFINE: {Population:1808085}
+.: {Development:20.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:CEN}
+CREATE: (Region) "Haiti"
+DEFINE: {Population:2486173}
+.: {Development:20.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:HAI}
+CREATE: (Region) "Honduras"
+DEFINE: {Population:969893}
+.: {Development:20.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:CEN}
+CREATE: (Region) "Jamaica"
+DEFINE: {Population:1035601}
+.: {Development:20.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:USA}
+CREATE: (Region) "Nicaragua"
+DEFINE: {Population:694239}
+.: {Development:20.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:CEN}
+CREATE: (Region) "Panama"
+DEFINE: {Population:523444}
+.: {Development:20.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:PAN}
+CREATE: (Region) "Paraguay"
+DEFINE: {Population:897720}
+.: {Development:20.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:BOL}
+CREATE: (Region) "Puerto Rico"
+DEFINE: {Population:1592916}
+.: {Development:20.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:USA}
+CREATE: (Region) "Trinidad and Tobago"
+DEFINE: {Population:410821}
+.: {Development:20.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:SPA}
+CREATE: (Region) "Turkey"
+DEFINE: {Population:15158242}
+.: {Development:24.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:TUR}
+CREATE: (Region) "Iran"
+DEFINE: {Population:12538743}
+.: {Development:13.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:PER}
+CREATE: (Region) "Iraq"
+DEFINE: {Population:3887393}
+.: {Development:12.1}
+.: {Acceptance:0.75}
+.: {Occupied:0.0}
+.: {Owner:TUR}
+CREATE: (Region) "Israel"
+DEFINE: {Population:968272}
+.: {Development:12.1}
+.: {Acceptance:0.75}
+.: {Occupied:0.0}
+.: {Owner:TUR}
+CREATE: (Region) "Jordan"
+DEFINE: {Population:422586}
+.: {Development:12.1}
+.: {Acceptance:0.75}
+.: {Occupied:0.0}
+.: {Owner:TUR}
+CREATE: (Region) "Kuwait"
+DEFINE: {Population:109005}
+.: {Development:12.1}
+.: {Acceptance:0.75}
+.: {Occupied:0.0}
+.: {Owner:TUR}
+CREATE: (Region) "Lebanon"
+DEFINE: {Population:1027026}
+.: {Development:12.1}
+.: {Acceptance:0.75}
+.: {Occupied:0.0}
+.: {Owner:TUR}
+CREATE: (Region) "Oman"
+DEFINE: {Population:374323}
+.: {Development:12.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:OMA}
+CREATE: (Region) "Qatar"
+DEFINE: {Population:19230}
+.: {Development:12.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:ABU}
+CREATE: (Region) "Saudi Arabia"
+DEFINE: {Population:2906172}
+.: {Development:12.1}
+.: {Acceptance:0.75}
+.: {Occupied:0.0}
+.: {Owner:TUR}
+CREATE: (Region) "Syria"
+DEFINE: {Population:2631501}
+.: {Development:12.1}
+.: {Acceptance:0.75}
+.: {Occupied:0.0}
+.: {Owner:TUR}
+CREATE: (Region) "United Arab Emirates"
+DEFINE: {Population:54794}
+.: {Development:12.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:ABU}
+CREATE: (Region) "Yemen"
+DEFINE: {Population:3659894}
+.: {Development:12.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:YEM}
+CREATE: (Region) "South Africa"
+DEFINE: {Population:10266443}
+.: {Development:12.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:SAF}
+CREATE: (Region) "West Bank and Gaza"
+DEFINE: {Population:765386}
+.: {Development:12.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:TUR}
+CREATE: (Region) "India"
+DEFINE: {Population:342485449}
+.: {Development:4.0}
+.: {Acceptance:0.25}
+.: {Occupied:0.0}
+.: {Owner:IND}
+CREATE: (Region) "Indonesia"
+DEFINE: {Population:61768195}
+.: {Development:8.0}
+.: {Acceptance:0.25}
+.: {Occupied:0.0}
+.: {Owner:OCE}
+CREATE: (Region) "Japan"
+DEFINE: {Population:65895649}
+.: {Development:21.1}
+.: {Acceptance:0.25}
+.: {Occupied:0.0}
+.: {Owner:USA}
+CREATE: (Region) "Philippines"
+DEFINE: {Population:13541847}
+.: {Development:8.1}
+.: {Acceptance:0.25}
+.: {Occupied:0.0}
+.: {Owner:USA}
+CREATE: (Region) "Korea"
+DEFINE: {Population:21621017}
+.: {Development:10.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:KOR}
+CREATE: (Region) "Thailand"
+DEFINE: {Population:12729988}
+.: {Development:8.0}
+.: {Acceptance:0.25}
+.: {Occupied:0.0}
+.: {Owner:SIA}
+CREATE: (Region) "Taiwan"
+DEFINE: {Population:4614000}
+.: {Development:8.0}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:NAN}
+CREATE: (Region) "Burma"
+DEFINE: {Population:14888951}
+.: {Development:8.0}
+.: {Acceptance:0.25}
+.: {Occupied:0.0}
+.: {Owner:ENG}
+CREATE: (Region) "Hong Kong"
+DEFINE: {Population:842151}
+.: {Development:20.1}
+.: {Acceptance:0.25}
+.: {Occupied:0.0}
+.: {Owner:ENG}
+CREATE: (Region) "Malaysia"
+DEFINE: {Population:4526692}
+.: {Development:8.0}
+.: {Acceptance:0.25}
+.: {Occupied:0.0}
+.: {Owner:ENG}
+CREATE: (Region) "Singapore"
+DEFINE: {Population:611354}
+.: {Development:20.1}
+.: {Acceptance:0.25}
+.: {Occupied:0.0}
+.: {Owner:ENG}
+CREATE: (Region) "Sri Lanka"
+DEFINE: {Population:5854030}
+.: {Development:6.0}
+.: {Acceptance:0.25}
+.: {Occupied:0.0}
+.: {Owner:ENG}
+CREATE: (Region) "Vietnam"
+DEFINE: {Population:20970065}
+.: {Development:18.1}
+.: {Acceptance:0.25}
+.: {Occupied:0.0}
+.: {Owner:FRA}
+CREATE: (Region) "Afghanistan"
+DEFINE: {Population:6260433}
+.: {Development:12.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:AFG}
+CREATE: (Region) "Cambodia"
+DEFINE: {Population:3393899}
+.: {Development:18.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:FRA}
+CREATE: (Region) "Laos"
+DEFINE: {Population:1431647}
+.: {Development:18.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:FRA}
+CREATE: (Region) "China"
+DEFINE: {Population:489000000}
+.: {Development:4.0}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:NAN}
+CREATE: (Region) "North China"
+DEFINE: {Population:61360872}
+.: {Development:12.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:QIN}
+CREATE: (Region) "Northeast China"
+DEFINE: {Population:40881342}
+.: {Development:8.0}
+.: {Acceptance:0.25}
+.: {Occupied:0.0}
+.: {Owner:RUS}
+CREATE: (Region) "East China"
+DEFINE: {Population:141778528}
+.: {Development:15.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:NRC}
+CREATE: (Region) "South Central China"
+DEFINE: {Population:142570198}
+.: {Development:13.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:GXI}
+CREATE: (Region) "Yunnan"
+DEFINE: {Population:66068128}
+.: {Development:10.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:YUN}
+CREATE: (Region) "Tibet"
+DEFINE: {Population:5146381}
+.: {Development:2.0}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:TIB}
+CREATE: (Region) "Northwest China"
+DEFINE: {Population:35978925}
+.: {Development:8.0}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:QIN}
+CREATE: (Region) "Mongolia"
+DEFINE: {Population:515256}
+.: {Development:2.0}
+.: {Acceptance:0.25}
+.: {Occupied:0.0}
+.: {Owner:RUS}
+CREATE: (Region) "Algeria"
+DEFINE: {Population:6750388}
+.: {Development:10.0}
+.: {Acceptance:0.75}
+.: {Occupied:0.0}
+.: {Owner:FRA}
+CREATE: (Region) "Angola"
+DEFINE: {Population:3053199}
+.: {Development:10.0}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:NAN}
+CREATE: (Region) "Benin"
+DEFINE: {Population:1240273}
+.: {Development:10.0}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:NAN}
+CREATE: (Region) "Botswana"
+DEFINE: {Population:319150}
+.: {Development:10.0}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:NAN}
+CREATE: (Region) "Burkina Faso"
+DEFINE: {Population:3244910}
+.: {Development:10.0}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:NAN}
+CREATE: (Region) "Burundi"
+DEFINE: {Population:1751802}
+.: {Development:10.0}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:NAN}
+CREATE: (Region) "Cameroon"
+DEFINE: {Population:3624133}
+.: {Development:10.0}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:NAN}
+CREATE: (Region) "Cape Verde"
+DEFINE: {Population:108557}
+.: {Development:10.0}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:NAN}
+CREATE: (Region) "Central African Republic"
+DEFINE: {Population:934149}
+.: {Development:10.0}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:NAN}
+CREATE: (Region) "Chad"
+DEFINE: {Population:1933652}
+.: {Development:10.0}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:NAN}
+CREATE: (Region) "Comoro Islands"
+DEFINE: {Population:109784}
+.: {Development:10.0}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:NAN}
+CREATE: (Region) "te d'Ivoire"
+DEFINE: {Population:2171220}
+.: {Development:20.1}
+.: {Acceptance:0.75}
+.: {Occupied:0.0}
+.: {Owner:FRA}
+CREATE: (Region) "Djibouti"
+DEFINE: {Population:44516}
+.: {Development:10.0}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:NAN}
+CREATE: (Region) "Egypt"
+DEFINE: {Population:16122963}
+.: {Development:18.1}
+.: {Acceptance:0.25}
+.: {Occupied:0.0}
+.: {Owner:ENG}
+CREATE: (Region) "Equatorial Guinea"
+DEFINE: {Population:156607}
+.: {Development:10.0}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:NAN}
+CREATE: (Region) "Eritrea and Ethiopia"
+DEFINE: {Population:16528372}
+.: {Development:10.1}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:ETH}
+CREATE: (Region) "Gabon"
+DEFINE: {Population:308290}
+.: {Development:10.0}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:NAN}
+CREATE: (Region) "Gambia"
+DEFINE: {Population:201219}
+.: {Development:10.0}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}
+.: {Owner:NAN}
+CREATE: (Region) "Ghana"
+DEFINE: {Population:3928045}
+.: {Development:10.0}
+.: {Acceptance:1.00}
+.: {Occupied:0.0}

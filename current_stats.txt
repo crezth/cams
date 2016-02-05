@@ -1,0 +1,1451 @@
+### STATS FOR 1930 A.D. ###
+Nation: The United Kingdom of Great Britain and Ireland (Immaculate)
+Population: 114,140,344
+Stability: 5.0
+Apparatus: Bureaucratic
+Centralization: Hegemony
+Legitimacy: Elective
+Action Potential: 4 (45.00% Inertia)
+Government: Imperialist (50.72% Support)
+MON: 14 (75%) Wants Fascist influence to be curbed
+IMP: 24 (75%) Wants to see USA shamed
+DEM: 18 (55%) Wants Fascist influence to be curbed
+FAS: 27 (45%) Wants more power in parliament
+ANA: 2 (1%) Opposes British Imperialism
+SOC: 15 (1%) Opposes British Imperialism
+EP: 447 (11 TxP)
+IC: 853 (+2.1%)
+Base Cost: 4 EP
+Army: 21 Rifle Infantry, 43 Trencher Infantry, 21 Assault Infantry, 19 Autocar Divisions, 16 Lt-Armor Divisions, 8 Md-Armor Divisions
+Navy: 50 Gunboats, 66 Destroyers, 16 Submarines, 38 Lt-Cruisers, 28 Hv-Cruisers, 8 Battlecruisers, 12 Dreadnoughts, 20 Battleships
+Air: 22 Biplane Squadrons, 10 Monoplane Squadrons, 8 Triplane Bomber Squadrons, 4 Lt-Bomber Squadrons
+Reserves: 169 Divisions (+11/turn)
+Army Quality: Good Leadership/Good Training/Good Equipment/Mixed Tactics
+Power Projection: Global Naval/Global Air
+Mobilization: 20% (ALERT) (Cost: -40 EP/turn)
+
+Nation: The French Social Democratic Republic (Shadowbound)
+Population: 75,522,511
+Stability: 4.8
+Apparatus: Bureaucratic
+Centralization: Unitary
+Legitimacy: Elective
+Action Potential: 7 (25.00% Inertia)
+Government: Socialist (73.64% Support)
+MON: 2 (20%) Wants to curb union influence
+IMP: 14 (55%) Wants to spread democratic socialism
+DEM: 30 (80%) 
+FAS: 4 (1%) Wants to curb union influence
+ANA: 5 (20%) 
+SOC: 45 (90%) Wants further expansion of government power
+EP: 550 (14 TxP)
+IC: 636 (+1.7%)
+Base Cost: 6 EP
+Army: 22 Rifle Infantry, 56 Trencher Infantry, 33 Assault Infantry, 26 Autocar Divisions, 24 Lt-Armor Divisions, 19 Md-Armor Divisions
+Navy: 22 Gunboats, 42 Destroyers, 10 Submarines, 10 Lt-Cruisers, 22 Hv-Cruisers, 5 Battlecruisers, 4 Dreadnoughts, 4 Battleships
+Air: 21 Biplane Squadrons, 14 Monoplane Squadrons, 10 Triplane Bomber Squadrons, 5 Lt-Bomber Squadrons
+Reserves: 223 Divisions (+5/turn)
+Army Quality: Excellent Leadership/Excellent Training/Excellent Equipment/Defensive Tactics
+Power Projection: Average Naval/Average Air
+Mobilization: 10% (PEACE) (Cost: -14 EP/turn)
+
+Nation: The Russian Empire (Christos)
+Population: 246,035,884
+Stability: 6.1
+Apparatus: Aristocratic
+Centralization: Hegemony
+Legitimacy: Hereditary
+Action Potential: 4 (70.00% Inertia)
+Government: Imperialist (47.05% Support)
+MON: 20 (90%) Wants rebels crushed
+IMP: 30 (90%) Wants rebels crushed
+DEM: 12 (5%) Wants to overthrow monarchy
+FAS: 1 (20%) Wants to overthrow monarchy
+ANA: 15 (1%) Wants to overthrow monarchy
+SOC: 22 (5%) Wants to overthrow monarchy
+EP: 606 (10 TxP)
+IC: 400 (+2.0%)
+Base Cost: 6 EP
+Army: 51 Rifle Infantry, 85 Trencher Infantry, 34 Assault Infantry, 31 Autocar Divisions, 27 Lt-Armor Divisions, 3 Md-Armor Divisions
+Navy: 24 Gunboats, 24 Destroyers, 4 Submarines, 22 Lt-Cruisers, 14 Hv-Cruisers, 2 Battlecruisers, 8 Dreadnoughts, 8 Battleships
+Air: 5 Biplane Squadrons, 2 Triplane Bomber Squadrons
+Reserves: 340 Divisions (+7/turn)
+Army Quality: Good Leadership/Average Training/Poor Equipment/Mass Tactics
+Power Projection: Weak Naval/Weak Air
+Mobilization: 10% (PEACE) (Cost: -9 EP/turn)
+
+Nation: The United States of America (Masada)
+Population: 217,951,001
+Stability: 5.3
+Apparatus: Aristocratic
+Centralization: Confederation
+Legitimacy: Elective
+Action Potential: 2 (40.00% Inertia)
+Government: Imperialist (57.15% Support)
+MON: 0 (0%) 
+IMP: 45 (90%) Wants to expand control over the Western Pacific
+DEM: 35 (45%) Wants Bureaucratic apparatus
+FAS: 5 (15%) Wants to gain control of the Senate
+ANA: 10 (1%) Wants to overthrow the Federal government
+SOC: 5 (1%) Wants an end to imperial adventurism
+EP: 361 (7 TxP)
+IC: 798 (+2.3%)
+Base Cost: 2 EP
+Army: 36 Rifle Infantry, 72 Trencher Infantry, 36 Assault Infantry, 32 Autocar Divisions, 28 Lt-Armor Divisions, 14 Md-Armor Divisions
+Navy: 84 Gunboats, 112 Destroyers, 28 Submarines, 64 Lt-Cruisers, 48 Hv-Cruisers, 16 Battlecruisers, 22 Dreadnoughts, 32 Battleships
+Air: 18 Biplane Squadrons, 9 Monoplane Squadrons, 7 Triplane Bomber Squadrons, 3 Lt-Bomber Squadrons
+Reserves: 280 Divisions (+8/turn)
+Army Quality: Excellent Leadership/Average Training/Average Equipment/Mass Tactics
+Power Projection: Global Naval/Average Air
+Mobilization: 20% (ALERT) (Cost: -45 EP/turn)
+
+Nation: The Kingdom of Italy (ZeletDude)
+Population: 42,485,805
+Stability: 5.1
+Apparatus: Aristocratic
+Centralization: Hegemony
+Legitimacy: Elective
+Action Potential: 5 (30.00% Inertia)
+Government: Democrat (71.75% Support)
+MON: 25 (90%) 
+IMP: 20 (85%) Wants to dominate the Balkans
+DEM: 35 (85%) Wants Bureaucratic apparatus
+FAS: 5 (10%) Wants to overthrow the government
+ANA: 5 (10%) Wants to end imperial adventurism
+SOC: 10 (15%) Wants to overthrow the government
+EP: 311 (11 TxP)
+IC: 532 (+2.0%)
+Base Cost: 3 EP
+Army: 9 Rifle Infantry, 23 Trencher Infantry, 14 Assault Infantry, 11 Autocar Divisions, 10 Lt-Armor Divisions, 8 Md-Armor Divisions
+Navy: 11 Gunboats, 20 Destroyers, 6 Submarines, 5 Lt-Cruisers, 10 Hv-Cruisers, 3 Battlecruisers, 2 Dreadnoughts, 6 Battleships
+Air: 14 Biplane Squadrons, 9 Monoplane Squadrons, 6 Triplane Bomber Squadrons, 3 Lt-Bomber Squadrons
+Reserves: 94 Divisions (+1/turn)
+Army Quality: Average Leadership/Average Training/Average Equipment/Combined Arms Tactics
+Power Projection: Average Naval/Strong Air
+Mobilization: 10% (PEACE) (Cost: -13 EP/turn)
+
+Nation: The United Republics of Austria and Bohemia (NPC)
+Population: 20,648,001
+Stability: 1.5
+Apparatus: Cartels
+Centralization: Coalition
+Legitimacy: Elective
+Action Potential: 2 (12.00% Inertia)
+Government: Anarchist (44.25% Support)
+MON: 20 (1%) Wants to be ruled by a Habsburg
+IMP: 5 (1%) Wants to be ruled by a Habsburg
+DEM: 10 (55%) Wants to curb cartels' influence
+FAS: 15 (10%) Wants to create a strong central authority
+ANA: 35 (95%) Wants to decrease Centralization
+SOC: 15 (25%) Wants Bureaucratic apparatus
+EP: 80 (7 TxP)
+IC: 279 (+2.9%)
+Base Cost: 2 EP
+Army: 2 Rifle Infantry, 6 Trencher Infantry, 3 Assault Infantry, 2 Autocar Divisions, 2 Lt-Armor Divisions, 1 Md-Armor Divisions
+Navy: None
+Air: 1 Biplane Squadrons
+Reserves: 18 Divisions (+4/turn)
+Army Quality: Excellent Leadership/Poor Training/Poor Equipment/Defensive Tactics
+Power Projection: Nonexistent Naval/Weak Air
+Mobilization: 60% (READY) (Cost: -6 EP/turn)
+
+Nation: The Hungarian Empire (NPC)
+Population: 8,649,001
+Stability: 4.5
+Apparatus: Aristocratic
+Centralization: Hegemony
+Legitimacy: Hereditary
+Action Potential: 5 (35.00% Inertia)
+Government: Monarchist (49.15% Support)
+MON: 35 (85%) Wants to conquer Austria-Bohemia
+IMP: 20 (75%) Wants to conquer Austria-Bohemia
+DEM: 25 (15%) Wants Elective legitimacy
+FAS: 5 (10%) Wants to conquer Austria-Bohemia
+ANA: 10 (1%) Wants to capitulate to Austria-Bohemia
+SOC: 5 (1%) Wants to overthrow government
+EP: 47 (11 TxP)
+IC: 68 (+2.7%)
+Base Cost: 5 EP
+Army: 2 Rifle Infantry, 5 Trencher Infantry, 2 Assault Infantry, 1 Autocar Divisions, 1 Lt-Armor Divisions
+Navy: 1 Destroyers
+Air: None
+Reserves: 17 Divisions (+3/turn)
+Army Quality: Poor Leadership/Poor Training/Poor Equipment/Offensive Tactics
+Power Projection: Weak Naval/Weak Air
+Mobilization: 60% (READY) (Cost: -3 EP/turn)
+
+Nation: The Republic of the Netherlands (Civ'ed)
+Population: 7,884,001
+Stability: 4.9
+Apparatus: Bureaucratic
+Centralization: Unitary
+Legitimacy: Elective
+Action Potential: 6 (35.00% Inertia)
+Government: Democrat (63.95% Support)
+MON: 5 (50%) Wants a strong Executive authority
+IMP: 27 (90%) Wants to guarantee its safety against its neighbors
+DEM: 35 (90%) Wants to guarantee its safety against its neighbors
+FAS: 7 (10%) Wants to gain controlling interest in government
+ANA: 5 (15%) Wants decreased Centralization
+SOC: 21 (20%) Wants increased protection for workers
+EP: 76 (13 TxP)
+IC: 102 (+1.9%)
+Base Cost: 6 EP
+Army: 3 Rifle Infantry, 6 Trencher Infantry, 3 Assault Infantry, 2 Autocar Divisions, 1 Lt-Armor Divisions
+Navy: 2 Gunboats, 3 Destroyers, 2 Lt-Cruisers, 1 Hv-Cruisers, 1 Battleships
+Air: None
+Reserves: 24 Divisions (+1/turn)
+Army Quality: Good Leadership/Good Training/Good Equipment/Defensive Tactics
+Power Projection: Average Naval/Weak Air
+Mobilization: 20% (ALERT) (Cost: -3 EP/turn)
+
+Nation: The Council Republic of the Ruhr (Stockholme)
+Population: 38,791,719
+Stability: 2.7
+Apparatus: Military
+Centralization: Unitary
+Legitimacy: Appointed
+Action Potential: 10 (13.00% Inertia)
+Government: Socialist (61.55% Support)
+MON: 10 (20%) Wants Kaiser back
+IMP: 30 (75%) Wants to dominate the Lowlands
+DEM: 10 (5%) Wants Elective legitimacy
+FAS: 10 (50%) Wants to overthrow government
+ANA: 5 (1%) Wants to overthrow government
+SOC: 35 (90%) Wants to spread Socialism by force
+EP: 415 (13 TxP)
+IC: 560 (+1.9%)
+Base Cost: 8 EP
+Army: 20 Rifle Infantry, 50 Trencher Infantry, 30 Assault Infantry, 24 Autocar Divisions, 22 Lt-Armor Divisions, 17 Md-Armor Divisions
+Navy: 12 Gunboats, 22 Destroyers, 7 Submarines, 6 Lt-Cruisers, 11 Hv-Cruisers, 4 Battlecruisers, 2 Dreadnoughts, 6 Battleships
+Air: 10 Biplane Squadrons, 6 Monoplane Squadrons, 4 Triplane Bomber Squadrons, 2 Lt-Bomber Squadrons
+Reserves: 196 Divisions (+8/turn)
+Army Quality: Good Leadership/Excellent Training/Excellent Equipment/Offensive Tactics
+Power Projection: Weak Naval/Weak Air
+Mobilization: 20% (ALERT) (Cost: -21 EP/turn)
+
+Nation: The German Federalist Alliance (Ahigin)
+Population: 25,182,709
+Stability: 2.4
+Apparatus: Military
+Centralization: Hegemony
+Legitimacy: Appointed
+Action Potential: 8 (13.00% Inertia)
+Government: Socialist (51.22% Support)
+MON: 10 (65%) Wants Kaiser back
+IMP: 35 (50%) Wants to dominate the German Union
+DEM: 15 (35%) Wants Elective legitimacy
+FAS: 13 (15%) Wants to overthrow government
+ANA: 2 (1%) Wants to overthrow government
+SOC: 25 (80%) Wants increased cooperation with fellow German Union members
+EP: 209 (11 TxP)
+IC: 364 (+2.1%)
+Base Cost: 8 EP
+Army: 11 Rifle Infantry, 28 Trencher Infantry, 17 Assault Infantry, 13 Autocar Divisions, 12 Lt-Armor Divisions, 9 Md-Armor Divisions
+Navy: 6 Gunboats, 12 Destroyers, 4 Submarines, 3 Lt-Cruisers, 6 Hv-Cruisers, 2 Battlecruisers, 2 Dreadnoughts, 4 Battleships
+Air: 10 Biplane Squadrons, 7 Monoplane Squadrons, 5 Triplane Bomber Squadrons, 2 Lt-Bomber Squadrons
+Reserves: 110 Divisions (+5/turn)
+Army Quality: Excellent Leadership/Excellent Training/Excellent Equipment/Combined Arms Tactics
+Power Projection: Weak Naval/Average Air
+Mobilization: 20% (ALERT) (Cost: -16 EP/turn)
+
+Nation: The Bavarian Workers' Council Republic (Tolni)
+Population: 10,254,184
+Stability: 4.1
+Apparatus: Bureaucratic
+Centralization: Confederation
+Legitimacy: Elective
+Action Potential: 6 (8.00% Inertia)
+Government: Socialist (68.20% Support)
+MON: 10 (1%) Wants Kaiser back
+IMP: 5 (1%) Wants independence from German Union
+DEM: 33 (90%) Wants all of German Union to become Elective legitimacy
+FAS: 5 (1%) Wants to overthrow government
+ANA: 10 (50%) Wants to overthrow government
+SOC: 37 (90%) Wants increased cooperation with fellow German Union members
+EP: 97 (12 TxP)
+IC: 148 (+1.9%)
+Base Cost: 6 EP
+Army: 3 Rifle Infantry, 7 Trencher Infantry, 4 Assault Infantry, 3 Autocar Divisions, 2 Lt-Armor Divisions, 2 Md-Armor Divisions
+Navy: None
+Air: 2 Biplane Squadrons, 1 Monoplane Squadrons, 1 Triplane Bomber Squadrons
+Reserves: 31 Divisions (+0/turn)
+Army Quality: Good Leadership/Good Training/Excellent Equipment/Defensive Tactics
+Power Projection: Nonexistent Naval/Average Air
+Mobilization: 10% (PEACE) (Cost: -1 EP/turn)
+
+Nation: The Free Republic of Alsace-Lorraine (Bair the Excellent)
+Population: 1,874,411
+Stability: 3.9
+Apparatus: Bureaucratic
+Centralization: Unitary
+Legitimacy: Elective
+Action Potential: 6 (15.00% Inertia)
+Government: Democrat (68.40% Support)
+MON: 5 (1%) 
+IMP: 5 (1%) Wants to guarantee independence from neighbors
+DEM: 40 (85%) 
+FAS: 5 (1%) 
+ANA: 5 (5%) 
+SOC: 40 (85%) Wants increased cooperation with France and Germany
+EP: 16 (13 TxP)
+IC: 17 (+1.9%)
+Base Cost: 10 EP
+Army: 1 Trencher Infantry
+Navy: None
+Air: None
+Reserves: 7 Divisions (+0/turn)
+Army Quality: Average Leadership/Average Training/Average Equipment/Defensive Tactics
+Power Projection: Nonexistent Naval/Weak Air
+Mobilization: 20% (ALERT) (Cost: -0 EP/turn)
+
+Nation: The Sublime State of Turkey (Christopher_Sni)
+Population: 30,118,398
+Stability: 3.2
+Apparatus: Military
+Centralization: Unitary
+Legitimacy: Appointed
+Action Potential: 11 (20.00% Inertia)
+Government: Fascist (65.60% Support)
+MON: 10 (55%) Wants Leader to be canonized as Caliph
+IMP: 25 (75%) Wants to dominate the Balkans
+DEM: 10 (20%) Wants to overthrow government
+FAS: 40 (98%) Wants to eliminate non-Fascist factions
+ANA: 5 (1%) Wants to overthrow government
+SOC: 10 (1%) Wants to overthrow government
+EP: 148 (14 TxP)
+IC: 113 (+2.1%)
+Base Cost: 19 EP
+Army: 13 Rifle Infantry, 33 Trencher Infantry, 19 Assault Infantry, 12 Autocar Divisions, 11 Lt-Armor Divisions, 9 Md-Armor Divisions
+Navy: 12 Gunboats, 22 Destroyers, 7 Submarines, 5 Lt-Cruisers, 11 Hv-Cruisers, 4 Battlecruisers, 3 Dreadnoughts, 7 Battleships
+Air: 5 Biplane Squadrons, 3 Monoplane Squadrons, 2 Triplane Bomber Squadrons, 1 Lt-Bomber Squadrons
+Reserves: 115 Divisions (+22/turn)
+Army Quality: Good Leadership/Average Training/Average Equipment/Mixed Tactics
+Power Projection: Average Naval/Weak Air
+Mobilization: 40% (READY) (Cost: -14 EP/turn)
+
+Nation: The Imperial Domain of India (NPC)
+Population: 336,400,001
+Stability: 3.7
+Apparatus: Military
+Centralization: Hegemony
+Legitimacy: Appointed
+Action Potential: 8 (60.00% Inertia)
+Government: Imperialist (48.66% Support)
+MON: 20 (75%) Wants increased Centralization
+IMP: 25 (90%) Wants to please British overlords
+DEM: 15 (55%) Wants to reform government to be more representative
+FAS: 1 (1%) Wants to cast off the Imperial yoke
+ANA: 20 (5%) Wants to cast out the British
+SOC: 19 (10%) Wants to cast out the British
+EP: 233 (11 TxP)
+IC: 54 (+2.0%)
+Base Cost: 8 EP
+Army: 33 Rifle Infantry, 67 Trencher Infantry, 33 Assault Infantry, 15 Autocar Divisions, 13 Lt-Armor Divisions, 6 Md-Armor Divisions
+Navy: 10 Gunboats, 13 Destroyers, 3 Submarines, 8 Lt-Cruisers, 6 Hv-Cruisers, 2 Battlecruisers, 2 Dreadnoughts, 4 Battleships
+Air: None
+Reserves: 269 Divisions (+4/turn)
+Army Quality: Poor Leadership/Poor Training/Average Equipment/Police Tactics
+Power Projection: Weak Naval/Nonexistent Air
+Mobilization: 10% (PEACE) (Cost: -1 EP/turn)
+
+Nation: The Imperial Domain of Australasia (TerranEmpress)
+Population: 68,558,001
+Stability: 3.9
+Apparatus: Military
+Centralization: Hegemony
+Legitimacy: Appointed
+Action Potential: 9 (50.00% Inertia)
+Government: Imperialist (58.75% Support)
+MON: 20 (80%) Wants increased Centralization
+IMP: 30 (85%) Wants to please British overlords
+DEM: 20 (75%) Wants to reform government to be more representative
+FAS: 5 (10%) Wants to cast off the Imperial yoke
+ANA: 15 (5%) Wants to cast out the British
+SOC: 10 (10%) Wants to cast out the British
+EP: 86 (12 TxP)
+IC: 57 (+1.9%)
+Base Cost: 3 EP
+Army: 9 Rifle Infantry, 19 Trencher Infantry, 9 Assault Infantry, 4 Autocar Divisions, 4 Lt-Armor Divisions, 2 Md-Armor Divisions
+Navy: 3 Gunboats, 4 Destroyers, 1 Submarines, 2 Lt-Cruisers, 2 Hv-Cruisers, 1 Battleships
+Air: 1 Biplane Squadrons
+Reserves: 79 Divisions (+1/turn)
+Army Quality: Average Leadership/Poor Training/Poor Equipment/Marine Tactics
+Power Projection: Weak Naval/Weak Air
+Mobilization: 10% (PEACE) (Cost: -0 EP/turn)
+
+Nation: The Imperial Domain of South Africa (NPC)
+Population: 10,081,390
+Stability: 3.7
+Apparatus: Military
+Centralization: Hegemony
+Legitimacy: Appointed
+Action Potential: 9 (50.00% Inertia)
+Government: Imperialist (54.30% Support)
+MON: 20 (75%) Wants increased Centralization
+IMP: 35 (90%) Wants to please British overlords
+DEM: 10 (55%) Wants to reform government to be more representative
+FAS: 5 (1%) Wants to cast off the Imperial yoke
+ANA: 15 (5%) Wants to cast out the British
+SOC: 15 (10%) Wants to cast out the British
+EP: 36 (12 TxP)
+IC: 15 (+1.9%)
+Base Cost: 17 EP
+Army: 4 Rifle Infantry, 8 Trencher Infantry, 4 Assault Infantry
+Navy: None
+Air: None
+Reserves: 32 Divisions (+0/turn)
+Army Quality: Good Leadership/Poor Training/Average Equipment/Police Tactics
+Power Projection: Weak Naval/Weak Air
+Mobilization: 10% (PEACE) (Cost: -0 EP/turn)
+
+Nation: The Federal Republic of Switzerland (NPC)
+Population: 4,051,001
+Stability: 5.7
+Apparatus: Bureaucratic
+Centralization: Federation
+Legitimacy: Elective
+Action Potential: 6 (45.00% Inertia)
+Government: Democrat (65.65% Support)
+MON: 5 (80%) 
+IMP: 10 (85%) Wants to guarantee safety from neighbors
+DEM: 55 (90%) 
+FAS: 3 (10%) Wants to gain control of government
+ANA: 7 (5%) Wants to overthrow government
+SOC: 20 (15%) Wants more protection for workers
+EP: 33 (12 TxP)
+IC: 41 (+1.8%)
+Base Cost: 6 EP
+Army: 1 Rifle Infantry, 3 Trencher Infantry, 1 Assault Infantry
+Navy: None
+Air: None
+Reserves: 12 Divisions (+0/turn)
+Army Quality: Average Leadership/Good Training/Good Equipment/Defensive Tactics
+Power Projection: Nonexistent Naval/Weak Air
+Mobilization: 0% (PEACE) (Cost: -0 EP/turn)
+
+Nation: The People's Republic of Sweden (NPC)
+Population: 6,152,001
+Stability: 2.2
+Apparatus: Military
+Centralization: Unitary
+Legitimacy: Appointed
+Action Potential: 8 (20.00% Inertia)
+Government: Socialist (44.60% Support)
+MON: 25 (30%) Wants a return to the Monarchy
+IMP: 10 (30%) Wants to conquer Scandinavia entire
+DEM: 15 (40%) Wants democratic government
+FAS: 10 (1%) Wants to overthrow government
+ANA: 10 (40%) Wants to drastically lower Centralization
+SOC: 30 (80%) Wants to establish Socialism as the law of the land
+EP: 28 (11 TxP)
+IC: 30 (+3.0%)
+Base Cost: 20 EP
+Army: 3 Rifle Infantry, 9 Trencher Infantry, 5 Assault Infantry
+Navy: None
+Air: None
+Reserves: 26 Divisions (+11/turn)
+Army Quality: Good Leadership/Poor Training/Average Equipment/Offensive Tactics
+Power Projection: Weak Naval/Weak Air
+Mobilization: 70% (WAR) (Cost: -2 EP/turn)
+
+Nation: The Kingdom of Norway (NPC)
+Population: 2,807,001
+Stability: 5.0
+Apparatus: Aristocratic
+Centralization: Hegemony
+Legitimacy: Hereditary
+Action Potential: 5 (35.00% Inertia)
+Government: Monarchist (59.20% Support)
+MON: 35 (85%) Wants to destroy the revolution in Sweden
+IMP: 10 (74%) Wants to destroy the revolution in Sweden
+DEM: 30 (65%) Wants Elective legitimacy
+FAS: 5 (1%) Wants to control the government
+ANA: 10 (10%) Wants to overthrow government
+SOC: 10 (15%) Wants to support Swedish socialism
+EP: 13 (11 TxP)
+IC: 11 (+2.5%)
+Base Cost: 8 EP
+Army: 1 Trencher Infantry
+Navy: None
+Air: None
+Reserves: 7 Divisions (+0/turn)
+Army Quality: Average Leadership/Average Training/Average Equipment/Defensive Tactics
+Power Projection: Weak Naval/Weak Air
+Mobilization: 50% (READY) (Cost: -0 EP/turn)
+
+Nation: The Kingdom of Denmark and Iceland (angst)
+Population: 3,542,001
+Stability: 5.0
+Apparatus: Aristocratic
+Centralization: Hegemony
+Legitimacy: Hereditary
+Action Potential: 5 (35.00% Inertia)
+Government: Monarchist (59.25% Support)
+MON: 30 (85%) Wants to destroy the revolution in Sweden
+IMP: 25 (90%) Wants to destroy the revolution in Sweden AND guarantee safety against Germany
+DEM: 20 (55%) Wants Elective legitimacy
+FAS: 10 (1%) Wants to control government
+ANA: 10 (1%) Wants to overthrow government
+SOC: 5 (1%) Wants to support Swedish socialism
+EP: 15 (11 TxP)
+IC: 11 (+2.5%)
+Base Cost: 8 EP
+Army: 1 Rifle Infantry, 2 Trencher Infantry, 1 Assault Infantry
+Navy: None
+Air: None
+Reserves: 8 Divisions (+1/turn)
+Army Quality: Average Leadership/Good Training/Average Equipment/Defensive Tactics
+Power Projection: Weak Naval/Weak Air
+Mobilization: 50% (READY) (Cost: -0 EP/turn)
+
+Nation: The Spanish Republic (Seon)
+Population: 25,106,001
+Stability: 2.7
+Apparatus: Bureaucratic
+Centralization: Unitary
+Legitimacy: Elective
+Action Potential: 3 (20.00% Inertia)
+Government: Democrat (35.85% Support)
+MON: 20 (30%) Wants a return to the Monarchy
+IMP: 5 (20%) Wants to dominate Portugal
+DEM: 30 (75%) Wants to repress anti-Republican forces
+FAS: 10 (1%) Wants to control government
+ANA: 15 (15%) Wants to overthrow government
+SOC: 20 (20%) Wants increased protection for workers
+EP: 92 (10 TxP)
+IC: 142 (+2.7%)
+Base Cost: 11 EP
+Army: 9 Rifle Infantry, 24 Trencher Infantry, 14 Assault Infantry, 9 Autocar Divisions, 9 Lt-Armor Divisions, 7 Md-Armor Divisions
+Navy: 4 Gunboats, 8 Destroyers, 2 Submarines, 2 Lt-Cruisers, 4 Hv-Cruisers, 2 Battlecruisers, 1 Dreadnoughts, 2 Battleships
+Air: 4 Biplane Squadrons, 2 Monoplane Squadrons, 2 Triplane Bomber Squadrons
+Reserves: 73 Divisions (+18/turn)
+Army Quality: Good Leadership/Average Training/Poor Equipment/Mixed Tactics
+Power Projection: Weak Naval/Weak Air
+Mobilization: 60% (READY) (Cost: -28 EP/turn)
+
+Nation: The Kingdom of Portugal (NPC)
+Population: 11,418,684
+Stability: 5.3
+Apparatus: Bureaucratic
+Centralization: Hegemony
+Legitimacy: Hereditary
+Action Potential: 7 (35.00% Inertia)
+Government: Monarchist (63.00% Support)
+MON: 30 (85%) Wants to destroy the revolution in Spain
+IMP: 20 (85%) Wants to destroy the revolution in Spain
+DEM: 25 (75%) Wants Elective legitimacy
+FAS: 5 (5%) Wants to control government
+ANA: 10 (5%) Wants to overthrow the government
+SOC: 10 (10%) Wants to overthrow the government
+EP: 48 (14 TxP)
+IC: 37 (+2.0%)
+Base Cost: 5 EP
+Army: 2 Rifle Infantry, 5 Trencher Infantry, 2 Assault Infantry
+Navy: 2 Destroyers
+Air: None
+Reserves: 23 Divisions (+1/turn)
+Army Quality: Good Leadership/Average Training/Good Equipment/Mixed Tactics
+Power Projection: Strong Naval/Strong Air
+Mobilization: 30% (ALERT) (Cost: -1 EP/turn)
+
+Nation: The Republic of Belgium (NPC)
+Population: 8,076,001
+Stability: 4.5
+Apparatus: Bureaucratic
+Centralization: Unitary
+Legitimacy: Elective
+Action Potential: 6 (25.00% Inertia)
+Government: Democrat (66.90% Support)
+MON: 5 (45%) Wants increased Executive authority
+IMP: 22 (90%) Wants to guarantee safety from France and Germany
+DEM: 45 (95%) Wants to guarantee safety from France and Germany
+FAS: 9 (5%) Wants to control government
+ANA: 5 (5%) Wants to overthrow government
+SOC: 14 (10%) Wants to overthrow government
+EP: 52 (13 TxP)
+IC: 47 (+1.9%)
+Base Cost: 9 EP
+Army: 2 Rifle Infantry, 6 Trencher Infantry, 3 Assault Infantry, 1 Autocar Divisions, 1 Lt-Armor Divisions
+Navy: 1 Destroyers
+Air: None
+Reserves: 25 Divisions (+1/turn)
+Army Quality: Average Leadership/Average Training/Excellent Equipment/Defensive Tactics
+Power Projection: Weak Naval/Weak Air
+Mobilization: 20% (ALERT) (Cost: -1 EP/turn)
+
+Nation: The Kingdom of Romania (tobiisagoodboy)
+Population: 14,141,001
+Stability: 4.4
+Apparatus: Aristocratic
+Centralization: Hegemony
+Legitimacy: Hereditary
+Action Potential: 3 (45.00% Inertia)
+Government: Monarchist (33.70% Support)
+MON: 20 (85%) Wants to dominate the Balkans
+IMP: 20 (55%) Wants to dominate the Balkans
+DEM: 15 (35%) Wants Elective Legitimacy
+FAS: 15 (1%) Wants to control government
+ANA: 15 (1%) Wants to overthrow government
+SOC: 15 (1%) Wants to overthrow government
+EP: 46 (9 TxP)
+IC: 46 (+2.2%)
+Base Cost: 8 EP
+Army: 3 Rifle Infantry, 6 Trencher Infantry, 3 Assault Infantry, 1 Autocar Divisions, 1 Lt-Armor Divisions
+Navy: None
+Air: None
+Reserves: 26 Divisions (+1/turn)
+Army Quality: Average Leadership/Average Training/Poor Equipment/Mixed Tactics
+Power Projection: Nonexistent Naval/Weak Air
+Mobilization: 20% (ALERT) (Cost: -1 EP/turn)
+
+Nation: The Kingdom of Serbia (NPC)
+Population: 14,407,001
+Stability: 4.4
+Apparatus: Aristocratic
+Centralization: Hegemony
+Legitimacy: Hereditary
+Action Potential: 3 (45.00% Inertia)
+Government: Monarchist (33.70% Support)
+MON: 20 (85%) Wants to dominate the Balkans
+IMP: 20 (55%) Wants to dominate the Balkans
+DEM: 15 (35%) Wants Elective legitimacy
+FAS: 15 (1%) Wants to control government
+ANA: 15 (1%) Wants to overthrow government
+SOC: 15 (1%) Wants to overthrow government
+EP: 47 (9 TxP)
+IC: 47 (+2.2%)
+Base Cost: 8 EP
+Army: 3 Rifle Infantry, 6 Trencher Infantry, 3 Assault Infantry, 1 Autocar Divisions, 1 Lt-Armor Divisions
+Navy: 1 Destroyers
+Air: None
+Reserves: 27 Divisions (+1/turn)
+Army Quality: Good Leadership/Poor Training/Poor Equipment/Offensive Tactics
+Power Projection: Weak Naval/Weak Air
+Mobilization: 20% (ALERT) (Cost: -1 EP/turn)
+
+Nation: The Kingdom of Bulgaria (NPC)
+Population: 5,500,001
+Stability: 4.4
+Apparatus: Aristocratic
+Centralization: Hegemony
+Legitimacy: Hereditary
+Action Potential: 3 (45.00% Inertia)
+Government: Monarchist (33.70% Support)
+MON: 20 (85%) Wants to guarantee safety from Turkey
+IMP: 20 (55%) Wants to guarantee safety from Turkey
+DEM: 15 (35%) Wants Elective legitimacy
+FAS: 15 (1%) Wants to control government
+ANA: 15 (1%) Wants to overthrow government
+SOC: 15 (1%) Wants to overthrow government
+EP: 17 (9 TxP)
+IC: 14 (+2.2%)
+Base Cost: 10 EP
+Army: 1 Rifle Infantry, 2 Trencher Infantry, 1 Assault Infantry
+Navy: None
+Air: None
+Reserves: 10 Divisions (+0/turn)
+Army Quality: Average Leadership/Average Training/Average Equipment/Defensive Tactics
+Power Projection: Nonexistent Naval/Weak Air
+Mobilization: 20% (ALERT) (Cost: -0 EP/turn)
+
+Nation: The Hellenic Republic (NPC)
+Population: 6,351,001
+Stability: 3.9
+Apparatus: Aristocratic
+Centralization: Federation
+Legitimacy: Elective
+Action Potential: 2 (35.00% Inertia)
+Government: Democrat (38.25% Support)
+MON: 10 (45%) Wants Hereditary legitimacy
+IMP: 20 (50%) Wants to guarantee safety from Italy
+DEM: 20 (85%) Wants to guarantee safety from Italy
+FAS: 15 (10%) Wants to control government
+ANA: 10 (15%) Wants to overthrow government
+SOC: 25 (15%) Wants to overthrow government
+EP: 14 (7 TxP)
+IC: 21 (+2.4%)
+Base Cost: 9 EP
+Army: 1 Rifle Infantry, 3 Trencher Infantry, 1 Assault Infantry
+Navy: None
+Air: None
+Reserves: 12 Divisions (+0/turn)
+Army Quality: Good Leadership/Good Training/Average Equipment/Mixed Tactics
+Power Projection: Weak Naval/Nonexistent Air
+Mobilization: 20% (ALERT) (Cost: -0 EP/turn)
+
+Nation: The Empire of the Great Qing (thomas.berubeg)
+Population: 94,709,254
+Stability: 5.6
+Apparatus: Bureaucratic
+Centralization: Hegemony
+Legitimacy: Hereditary
+Action Potential: 6 (55.00% Inertia)
+Government: Imperialist (49.55% Support)
+MON: 20 (95%) Wants to rule China
+IMP: 35 (80%) Wants to rule China
+DEM: 15 (15%) Wants to capitulate to the Republic
+FAS: 5 (1%) Wants to control government
+ANA: 10 (1%) Wants to overthrow government
+SOC: 15 (1%) Wants to overthrow government
+EP: 350 (13 TxP)
+IC: 108 (+2.1%)
+Base Cost: 20 EP
+Army: 55 Rifle Infantry, 79 Trencher Infantry, 29 Assault Infantry, 17 Autocar Divisions, 15 Lt-Armor Divisions, 1 Md-Armor Divisions
+Navy: 13 Gunboats, 13 Destroyers, 2 Submarines, 12 Lt-Cruisers, 8 Hv-Cruisers, 1 Battlecruisers, 4 Dreadnoughts, 4 Battleships
+Air: 2 Biplane Squadrons, 1 Triplane Bomber Squadrons
+Reserves: 220 Divisions (+17/turn)
+Army Quality: Excellent Leadership/Good Training/Average Equipment/Defensive Tactics
+Power Projection: Weak Naval/Weak Air
+Mobilization: 30% (ALERT) (Cost: -20 EP/turn)
+
+Nation: The National Han Republic of China (JohannaK)
+Population: 139,225,534
+Stability: 3.7
+Apparatus: Military
+Centralization: Coalition
+Legitimacy: Elective
+Action Potential: 3 (30.00% Inertia)
+Government: Democrat (52.50% Support)
+MON: 15 (5%) Wants to capitulate to the Qing
+IMP: 10 (55%) Wants to rule China
+DEM: 35 (75%) Wants to rule China
+FAS: 10 (35%) Wants to control government
+ANA: 10 (45%) Wants to destroy the Qing
+SOC: 20 (60%) Wants to destroy the Qing
+EP: 240 (7 TxP)
+IC: 313 (+2.5%)
+Base Cost: 15 EP
+Army: 45 Rifle Infantry, 114 Trencher Infantry, 68 Assault Infantry, 52 Autocar Divisions, 48 Lt-Armor Divisions, 37 Md-Armor Divisions
+Navy: 26 Gunboats, 47 Destroyers, 16 Submarines, 12 Lt-Cruisers, 24 Hv-Cruisers, 8 Battlecruisers, 6 Dreadnoughts, 14 Battleships
+Air: 20 Biplane Squadrons, 14 Monoplane Squadrons, 10 Triplane Bomber Squadrons, 5 Lt-Bomber Squadrons
+Reserves: 423 Divisions (+32/turn)
+Army Quality: Good Leadership/Good Training/Good Equipment/Mass Tactics
+Power Projection: Weak Naval/Weak Air
+Mobilization: 30% (ALERT) (Cost: -62 EP/turn)
+
+Nation: The Confederation of Guangxi (Southern King)
+Population: 138,933,887
+Stability: 5.2
+Apparatus: Aristocratic
+Centralization: Confederation
+Legitimacy: Hereditary
+Action Potential: 3 (45.00% Inertia)
+Government: Monarchist (46.00% Support)
+MON: 35 (75%) Wants to guarantee safety from Qing and the Republic
+IMP: 10 (75%) Wants to guarantee safety from Qing and the Republic
+DEM: 20 (55%) Wants Elective legitimacy
+FAS: 10 (1%) Wants to overthrow government
+ANA: 10 (10%) Wants to overthrow government
+SOC: 15 (1%) Wants to overthrow government
+EP: 328 (8 TxP)
+IC: 235 (+2.3%)
+Base Cost: 12 EP
+Army: 34 Rifle Infantry, 68 Trencher Infantry, 34 Assault Infantry, 27 Autocar Divisions, 24 Lt-Armor Divisions, 12 Md-Armor Divisions
+Navy: 18 Gunboats, 24 Destroyers, 6 Submarines, 14 Lt-Cruisers, 10 Hv-Cruisers, 3 Battlecruisers, 4 Dreadnoughts, 7 Battleships
+Air: 8 Biplane Squadrons, 4 Monoplane Squadrons, 3 Triplane Bomber Squadrons, 2 Lt-Bomber Squadrons
+Reserves: 262 Divisions (+12/turn)
+Army Quality: Good Leadership/Average Training/Average Equipment/Defensive Tactics
+Power Projection: Weak Naval/Weak Air
+Mobilization: 20% (ALERT) (Cost: -21 EP/turn)
+
+Nation: The State of Yunnan (NPC)
+Population: 64,901,371
+Stability: 3.5
+Apparatus: Aristocratic
+Centralization: Unitary
+Legitimacy: Hereditary
+Action Potential: 4 (35.00% Inertia)
+Government: Monarchist (33.25% Support)
+MON: 40 (55%) Wants to guarantee safety from the Chinese
+IMP: 0 (10%) 
+DEM: 20 (45%) Wants Elective legitimacy
+FAS: 5 (10%) Wants to overthrow government
+ANA: 10 (5%) Wants to overthrow government
+SOC: 25 (5%) Wants to overthrow government
+EP: 188 (10 TxP)
+IC: 65 (+1.9%)
+Base Cost: 23 EP
+Army: 18 Rifle Infantry, 36 Trencher Infantry, 18 Assault Infantry, 9 Autocar Divisions, 8 Lt-Armor Divisions, 4 Md-Armor Divisions
+Navy: None
+Air: None
+Reserves: 146 Divisions (+0/turn)
+Army Quality: Poor Leadership/Poor Training/Poor Equipment/Antiquated Tactics
+Power Projection: Nonexistent Naval/Nonexistent Air
+Mobilization: 0% (PEACE) (Cost: -0 EP/turn)
+
+Nation: The Heavenly Domain of Tibet (NPC)
+Population: 5,000,001
+Stability: 5.9
+Apparatus: Aristocratic
+Centralization: Hegemony
+Legitimacy: Appointed
+Action Potential: 5 (90.00% Inertia)
+Government: Monarchist (46.15% Support)
+MON: 50 (90%) Wants to destroy anti-government forces
+IMP: 0 (10%) 
+DEM: 20 (1%) Wants to overthrow government
+FAS: 5 (5%) Wants to overthrow government
+ANA: 5 (10%) Wants to overthrow government
+SOC: 20 (1%) Wants to overthrow government
+EP: 12 (9 TxP)
+IC: 0 (+2.0%)
+Base Cost: 487 EP
+Army: 1 Rifle Infantry, 2 Trencher Infantry
+Navy: None
+Air: None
+Reserves: 9 Divisions (+0/turn)
+Army Quality: Poor Leadership/Poor Training/Poor Equipment/Antiquated Tactics
+Power Projection: Nonexistent Naval/Nonexistent Air
+Mobilization: 0% (PEACE) (Cost: -0 EP/turn)
+
+Nation: The Kingdom of Korea (NPC)
+Population: 20,850,001
+Stability: 7.4
+Apparatus: Aristocratic
+Centralization: Hegemony
+Legitimacy: Hereditary
+Action Potential: 6 (80.00% Inertia)
+Government: Monarchist (68.05% Support)
+MON: 55 (85%) Wants increased autonomy from its neighbors
+IMP: 20 (85%) Wants increased autonomy from its neighbors
+DEM: 15 (25%) Wants to overthrow government
+FAS: 0 (10%) 
+ANA: 5 (10%) Wants to overthrow government
+SOC: 5 (1%) Wants to overthrow government
+EP: 77 (12 TxP)
+IC: 21 (+2.0%)
+Base Cost: 12 EP
+Army: 7 Rifle Infantry, 11 Trencher Infantry, 4 Assault Infantry
+Navy: None
+Air: None
+Reserves: 46 Divisions (+1/turn)
+Army Quality: Average Leadership/Poor Training/Average Equipment/Defensive Tactics
+Power Projection: Weak Naval/Nonexistent Air
+Mobilization: 20% (ALERT) (Cost: -1 EP/turn)
+
+Nation: The Sultanate of Afghanistan (NPC)
+Population: 6,043,199
+Stability: 7.2
+Apparatus: Aristocratic
+Centralization: Hegemony
+Legitimacy: Hereditary
+Action Potential: 5 (85.00% Inertia)
+Government: Monarchist (59.60% Support)
+MON: 55 (85%) Wants to destroy anti-government forces
+IMP: 25 (45%) Wants to expel foreigners
+DEM: 10 (15%) Wants to overthrow government
+FAS: 0 (10%) 
+ANA: 5 (1%) Wants to overthrow government
+SOC: 5 (1%) Wants to overthrow government
+EP: 22 (11 TxP)
+IC: 9 (+1.8%)
+Base Cost: 8 EP
+Army: 1 Rifle Infantry, 3 Trencher Infantry, 1 Assault Infantry
+Navy: None
+Air: None
+Reserves: 13 Divisions (+0/turn)
+Army Quality: Good Leadership/Average Training/Average Equipment/Defensive Tactics
+Power Projection: Nonexistent Naval/Nonexistent Air
+Mobilization: 0% (PEACE) (Cost: -0 EP/turn)
+
+Nation: The Persian Empire (CivOasis)
+Population: 12,128,662
+Stability: 6.8
+Apparatus: Aristocratic
+Centralization: Hegemony
+Legitimacy: Hereditary
+Action Potential: 6 (70.00% Inertia)
+Government: Monarchist (61.90% Support)
+MON: 40 (85%) Wants to destroy anti-government forces
+IMP: 30 (80%) Wants to humiliate Turkey
+DEM: 15 (25%) Wants to overthrow government
+FAS: 0 (10%) 
+ANA: 5 (1%) Wants to overthrow government
+SOC: 10 (1%) Wants to overthrow government
+EP: 46 (12 TxP)
+IC: 20 (+1.8%)
+Base Cost: 8 EP
+Army: 3 Rifle Infantry, 6 Trencher Infantry, 2 Assault Infantry
+Navy: None
+Air: None
+Reserves: 26 Divisions (+0/turn)
+Army Quality: Good Leadership/Good Training/Poor Equipment/Mixed Tactics
+Power Projection: Weak Naval/Nonexistent Air
+Mobilization: 0% (PEACE) (Cost: -0 EP/turn)
+
+Nation: The Kingdom of Ethiopia (NPC)
+Population: 15,999,328
+Stability: 6.6
+Apparatus: Aristocratic
+Centralization: Hegemony
+Legitimacy: Hereditary
+Action Potential: 6 (65.00% Inertia)
+Government: Monarchist (62.90% Support)
+MON: 45 (95%) Wants to destroy anti-government forces
+IMP: 15 (75%) Wants to guarantee safety from imperialists
+DEM: 25 (35%) Wants Elective legitimacy
+FAS: 0 (10%) 
+ANA: 5 (1%) Wants to overthrow government
+SOC: 10 (1%) Wants to overthrow government
+EP: 56 (12 TxP)
+IC: 16 (+1.8%)
+Base Cost: 15 EP
+Army: 4 Rifle Infantry, 9 Trencher Infantry, 4 Assault Infantry
+Navy: None
+Air: None
+Reserves: 36 Divisions (+0/turn)
+Army Quality: Average Leadership/Average Training/Average Equipment/Defensive Tactics
+Power Projection: Nonexistent Naval/Nonexistent Air
+Mobilization: 0% (PEACE) (Cost: -0 EP/turn)
+
+Nation: The Dominion of Colombia (NPC)
+Population: 11,214,001
+Stability: 3.3
+Apparatus: Military
+Centralization: Unitary
+Legitimacy: Appointed
+Action Potential: 9 (55.00% Inertia)
+Government: Imperialist (49.00% Support)
+MON: 0 (0%) 
+IMP: 55 (85%) Wants to please American overlords
+DEM: 10 (10%) Wants to cast out Americans
+FAS: 0 (10%) 
+ANA: 25 (1%) Wants to cast out Americans
+SOC: 10 (10%) Wants to cast out Americans
+EP: 48 (12 TxP)
+IC: 45 (+2.0%)
+Base Cost: 5 EP
+Army: 4 Rifle Infantry, 8 Trencher Infantry, 4 Assault Infantry, 1 Autocar Divisions, 1 Lt-Armor Divisions
+Navy: 1 Gunboats, 1 Destroyers
+Air: None
+Reserves: 35 Divisions (+0/turn)
+Army Quality: Poor Leadership/Average Training/Average Equipment/Mass Tactics
+Power Projection: Weak Naval/Weak Air
+Mobilization: 20% (ALERT) (Cost: -1 EP/turn)
+
+Nation: The Democratic Republic of Brazil (Tyo)
+Population: 21,853,801
+Stability: 2.9
+Apparatus: Military
+Centralization: Federation
+Legitimacy: Elective
+Action Potential: 5 (18.00% Inertia)
+Government: Socialist (49.50% Support)
+MON: 20 (1%) Wants to capitulate to the Empire of Brazil
+IMP: 25 (45%) Wants to defeat the Empire of Brazil
+DEM: 15 (65%) Wants to defeat the Empire of Brazil
+FAS: 5 (1%) Wants to overthrow government
+ANA: 5 (55%) Wants to defeat the Empire of Brazil
+SOC: 30 (85%) Wants to defeat the Empire of Brazil
+EP: 24 (9 TxP)
+IC: 103 (+3.3%)
+Base Cost: 14 EP
+Army: 13 Rifle Infantry, 34 Trencher Infantry, 20 Assault Infantry, 12 Autocar Divisions, 11 Lt-Armor Divisions, 9 Md-Armor Divisions
+Navy: 12 Gunboats, 22 Destroyers, 7 Submarines, 5 Lt-Cruisers, 11 Hv-Cruisers, 4 Battlecruisers, 3 Dreadnoughts, 7 Battleships
+Air: 10 Biplane Squadrons, 6 Monoplane Squadrons, 5 Triplane Bomber Squadrons, 2 Lt-Bomber Squadrons
+Reserves: 85 Divisions (+31/turn)
+Army Quality: Good Leadership/Average Training/Average Equipment/Partisan Tactics
+Power Projection: Average Naval/Average Air
+Mobilization: 80% (WAR) (Cost: -58 EP/turn)
+
+Nation: The Empire of Brazil (NPC)
+Population: 13,427,201
+Stability: 3.7
+Apparatus: Military
+Centralization: Hegemony
+Legitimacy: Hereditary
+Action Potential: 6 (50.00% Inertia)
+Government: Monarchist (42.55% Support)
+MON: 25 (75%) Wants to defeat the socialists
+IMP: 25 (65%) Wants to defeat the socialists
+DEM: 15 (45%) Wants Elective legitimacy
+FAS: 5 (10%) Wants to overthrow government
+ANA: 5 (1%) Wants to capitulate to the socialists
+SOC: 25 (1%) Wants to capitulate to the socialists
+EP: 30 (11 TxP)
+IC: 44 (+3.2%)
+Base Cost: 19 EP
+Army: 15 Rifle Infantry, 30 Trencher Infantry, 15 Assault Infantry, 5 Autocar Divisions, 4 Lt-Armor Divisions, 2 Md-Armor Divisions
+Navy: 6 Gunboats, 8 Destroyers, 2 Submarines, 5 Lt-Cruisers, 3 Hv-Cruisers, 1 Battlecruisers, 1 Dreadnoughts, 2 Battleships
+Air: 1 Biplane Squadrons
+Reserves: 75 Divisions (+21/turn)
+Army Quality: Average Leadership/Good Training/Excellent Equipment/Police Tactics
+Power Projection: Average Naval/Weak Air
+Mobilization: 80% (WAR) (Cost: -26 EP/turn)
+
+Nation: The Democratic Republic of Central America (NPC)
+Population: 5,341,001
+Stability: 4.3
+Apparatus: Bureaucratic
+Centralization: Federation
+Legitimacy: Elective
+Action Potential: 6 (15.00% Inertia)
+Government: Socialist (65.35% Support)
+MON: 0 (0%) 
+IMP: 20 (50%) Wants to stabilize Mexico
+DEM: 30 (75%) Wants to stabilize Mexico
+FAS: 10 (1%) Wants to overthrow government
+ANA: 5 (25%) Wants reduced Centralization
+SOC: 35 (90%) Wants to spread socialism to Mexico
+EP: 24 (12 TxP)
+IC: 21 (+2.6%)
+Base Cost: 17 EP
+Army: 4 Rifle Infantry, 11 Trencher Infantry, 6 Assault Infantry
+Navy: None
+Air: None
+Reserves: 35 Divisions (+4/turn)
+Army Quality: Average Leadership/Average Training/Average Equipment/Defensive Tactics
+Power Projection: Average Naval/Average Air
+Mobilization: 60% (READY) (Cost: -3 EP/turn)
+
+Nation: The Republic of Chile (NPC)
+Population: 4,266,001
+Stability: 4.4
+Apparatus: Bureaucratic
+Centralization: Confederation
+Legitimacy: Elective
+Action Potential: 3 (25.00% Inertia)
+Government: Democrat (49.40% Support)
+MON: 5 (65%) Wants increased Centralization
+IMP: 25 (50%) Wants to humiliate Bolivia
+DEM: 40 (80%) Wants to destroy anti-government forces
+FAS: 10 (1%) Wants to control government
+ANA: 5 (1%) Wants to overthrow government
+SOC: 15 (10%) Wants to overthrow government
+EP: 13 (9 TxP)
+IC: 14 (+2.2%)
+Base Cost: 10 EP
+Army: 4 Rifle Infantry, 11 Trencher Infantry, 6 Assault Infantry
+Navy: None
+Air: None
+Reserves: 44 Divisions (+0/turn)
+Army Quality: Good Leadership/Good Training/Good Equipment/Defensive Tactics
+Power Projection: Average Naval/Average Air
+Mobilization: 20% (ALERT) (Cost: -1 EP/turn)
+
+Nation: The Republic of Argentina (NPC)
+Population: 11,896,001
+Stability: 4.5
+Apparatus: Bureaucratic
+Centralization: Federation
+Legitimacy: Elective
+Action Potential: 4 (28.00% Inertia)
+Government: Democrat (53.65% Support)
+MON: 0 (0%) 
+IMP: 25 (55%) Wants to humiliate Bolivia AND destroy revolution in Brazil
+DEM: 45 (85%) Wants to destroy anti-government forces
+FAS: 10 (1%) Wants to control government
+ANA: 5 (1%) Wants to overthrow government
+SOC: 15 (10%) Wants to overthrow government
+EP: 46 (10 TxP)
+IC: 48 (+2.1%)
+Base Cost: 10 EP
+Army: 6 Rifle Infantry, 16 Trencher Infantry, 9 Assault Infantry, 3 Autocar Divisions, 3 Lt-Armor Divisions, 2 Md-Armor Divisions
+Navy: 3 Gunboats, 6 Destroyers, 2 Submarines, 1 Lt-Cruisers, 3 Hv-Cruisers, 1 Battlecruisers, 1 Battleships
+Air: 2 Biplane Squadrons, 1 Monoplane Squadrons, 1 Triplane Bomber Squadrons
+Reserves: 64 Divisions (+1/turn)
+Army Quality: Average Leadership/Average Training/Good Equipment/Mixed Tactics
+Power Projection: Average Naval/Average Air
+Mobilization: 20% (ALERT) (Cost: -4 EP/turn)
+
+Nation: The Great Bolivian Empire (Zappericus)
+Population: 10,701,001
+Stability: 4.0
+Apparatus: Aristocratic
+Centralization: Hegemony
+Legitimacy: Hereditary
+Action Potential: 5 (23.00% Inertia)
+Government: Imperialist (55.70% Support)
+MON: 15 (95%) Wants to humiliate Argentina AND destroy anti-government forces
+IMP: 45 (85%) Wants to humilitate Argentina AND destroy revolution in Brazil
+DEM: 20 (15%) Wants to reform government
+FAS: 0 (0%) 
+ANA: 10 (1%) Wants to overthrow government
+SOC: 10 (1%) Wants to overthrow government
+EP: 37 (11 TxP)
+IC: 39 (+2.1%)
+Base Cost: 4 EP
+Army: 5 Rifle Infantry, 14 Trencher Infantry, 8 Assault Infantry, 2 Autocar Divisions, 1 Lt-Armor Divisions, 1 Md-Armor Divisions
+Navy: 1 Gunboats, 2 Destroyers
+Air: 1 Biplane Squadrons, 1 Monoplane Squadrons
+Reserves: 55 Divisions (+0/turn)
+Army Quality: Average Leadership/Excellent Training/Average Equipment/Grande Bolivaro Tactics
+Power Projection: Weak Naval/Average Air
+Mobilization: 20% (ALERT) (Cost: -2 EP/turn)
+
+Nation: The Dominion of Panama (NPC)
+Population: 515,001
+Stability: 3.3
+Apparatus: Military
+Centralization: Unitary
+Legitimacy: Appointed
+Action Potential: 9 (55.00% Inertia)
+Government: Imperialist (49.00% Support)
+MON: 0 (0%) 
+IMP: 55 (85%) Wants to please American overlords
+DEM: 10 (10%) Wants to cast out Americans
+FAS: 0 (10%) 
+ANA: 25 (1%) Wants to cast out Americans
+SOC: 10 (10%) Wants to cast out Americans
+EP: 2 (12 TxP)
+IC: 2 (+2.0%)
+Base Cost: 6 EP
+Army: None
+Navy: None
+Air: None
+Reserves: 1 Divisions (+0/turn)
+Army Quality: Average Leadership/Average Training/Average Equipment/Mixed Tactics
+Power Projection: Nonexistent Naval/Nonexistent Air
+Mobilization: 20% (ALERT) (Cost: -0 EP/turn)
+
+Nation: The Emergency State of Veracruz (NPC)
+Population: 1,113,390
+Stability: 3.0
+Apparatus: Military
+Centralization: Unitary
+Legitimacy: Appointed
+Action Potential: 8 (60.00% Inertia)
+Government: Imperialist (39.30% Support)
+MON: 5 (35%) 
+IMP: 35 (85%) Wants to stabilize Mexico AND please American overlords
+DEM: 30 (25%) Wants to stabilize Mexico
+FAS: 10 (1%) Wants to cast off the American yoke
+ANA: 10 (1%) Wants to cast out the Americans
+SOC: 10 (1%) Wants to cast out the Americans
+EP: 4 (11 TxP)
+IC: 8 (+3.4%)
+Base Cost: 15 EP
+Army: 2 Rifle Infantry, 4 Trencher Infantry, 2 Assault Infantry
+Navy: None
+Air: None
+Reserves: 12 Divisions (+1/turn)
+Army Quality: Poor Leadership/Average Training/Average Equipment/Mixed Tactics
+Power Projection: Nonexistent Naval/Nonexistent Air
+Mobilization: 80% (WAR) (Cost: -2 EP/turn)
+
+Nation: The State of Sonora (NPC)
+Population: 1,436,350
+Stability: 3.4
+Apparatus: Military
+Centralization: Hegemony
+Legitimacy: Appointed
+Action Potential: 8 (45.00% Inertia)
+Government: Imperialist (49.90% Support)
+MON: 10 (45%) Wants to stabilize Mexico
+IMP: 30 (90%) Wants to stabilize Mexico
+DEM: 30 (55%) Wants to stabilize Mexico AND adopt Elective legitimacy
+FAS: 5 (5%) Wants to control government
+ANA: 15 (1%) Wants to become like the Raiders of Zacatecas
+SOC: 10 (15%) Wants to become like the Oaxaca Commune
+EP: 4 (11 TxP)
+IC: 6 (+3.3%)
+Base Cost: 16 EP
+Army: 3 Rifle Infantry, 7 Trencher Infantry, 3 Assault Infantry
+Navy: None
+Air: None
+Reserves: 19 Divisions (+1/turn)
+Army Quality: Average Leadership/Average Training/Poor Equipment/Mixed Tactics
+Power Projection: Nonexistent Naval/Nonexistent Air
+Mobilization: 80% (WAR) (Cost: -2 EP/turn)
+
+Nation: The Raiders of Zacatecas (Grandkhan)
+Population: 454,796
+Stability: 1.1
+Apparatus: Military
+Centralization: Anarchy
+Legitimacy: Appointed
+Action Potential: 5 (0.00% Inertia)
+Government: Anarchist (38.45% Support)
+MON: 10 (20%) Wants to stabilize Mexico
+IMP: 15 (20%) Wants to stabilize Mexico
+DEM: 30 (20%) Wants to stabilize Mexico AND adopt Elective legitimacy
+FAS: 5 (1%) Wants to establish strong central authority
+ANA: 30 (78%) Wants to keep raiding and destabilize Mexico further
+SOC: 10 (40%) Wants to become like the Oaxaca Commune
+EP: -1 (5 TxP)
+IC: 1 (+4.3%)
+Base Cost: 15 EP
+Army: 5 Rifle Infantry, 2 Trencher Infantry, 2 Assault Infantry, 2 Autocar Divisions
+Navy: None
+Air: None
+Reserves: 8 Divisions (+0/turn)
+Army Quality: Average Leadership/Average Training/Poor Equipment/Partisan Tactics
+Power Projection: Nonexistent Naval/Nonexistent Air
+Mobilization: 100% (TOTAL WAR) (Cost: -2 EP/turn)
+
+Nation: The State of the Rio Grande (NPC)
+Population: 1,554,200
+Stability: 2.5
+Apparatus: Military
+Centralization: Unitary
+Legitimacy: Appointed
+Action Potential: 8 (36.00% Inertia)
+Government: Imperialist (40.20% Support)
+MON: 10 (30%) Wants to stabilize Mexico
+IMP: 30 (85%) Wants to stabilize Mexico
+DEM: 30 (35%) Wants to stabilize Mexico AND adopt Elective legitimacy
+FAS: 10 (10%) Wants to control government
+ANA: 10 (1%) Wants to become like the Raiders of Zacatecas
+SOC: 10 (1%) Wants to become like the Oaxaca Commune
+EP: 5 (11 TxP)
+IC: 6 (+3.4%)
+Base Cost: 20 EP
+Army: 2 Rifle Infantry, 5 Trencher Infantry, 2 Assault Infantry
+Navy: None
+Air: None
+Reserves: 15 Divisions (+2/turn)
+Army Quality: Average Leadership/Average Training/Average Equipment/Mixed Tactics
+Power Projection: Nonexistent Naval/Nonexistent Air
+Mobilization: 80% (WAR) (Cost: -2 EP/turn)
+
+Nation: The Mexican Republic (NPC)
+Population: 8,315,090
+Stability: 5.4
+Apparatus: Bureaucratic
+Centralization: Federation
+Legitimacy: Elective
+Action Potential: 4 (55.00% Inertia)
+Government: Democrat (53.80% Support)
+MON: 10 (45%) Wants to stabilize Mexico
+IMP: 15 (65%) Wants to stabilize Mexico
+DEM: 45 (85%) Wants to stabilize Mexico
+FAS: 5 (1%) Wants to control government
+ANA: 10 (5%) Wants to become like the Raiders of Zacatecas
+SOC: 15 (5%) Wants to become like the Oaxaca Commune
+EP: 30 (10 TxP)
+IC: 56 (+3.2%)
+Base Cost: 10 EP
+Army: 6 Rifle Infantry, 13 Trencher Infantry, 6 Assault Infantry, 3 Autocar Divisions, 2 Lt-Armor Divisions, 1 Md-Armor Divisions
+Navy: 2 Gunboats, 2 Destroyers, 2 Lt-Cruisers, 1 Hv-Cruisers
+Air: None
+Reserves: 33 Divisions (+10/turn)
+Army Quality: Poor Leadership/Average Training/Average Equipment/Police Tactics
+Power Projection: Weak Naval/Weak Air
+Mobilization: 80% (WAR) (Cost: -14 EP/turn)
+
+Nation: The Empire of Mexico (NPC)
+Population: 1,631,699
+Stability: 4.4
+Apparatus: Aristocratic
+Centralization: Hegemony
+Legitimacy: Appointed
+Action Potential: 6 (35.00% Inertia)
+Government: Imperialist (52.65% Support)
+MON: 20 (85%) Wants to stabilize Mexico
+IMP: 35 (80%) Wants to stabilize Mexico AND destroy the Mexican Republic
+DEM: 30 (25%) Wants Elective legitimacy
+FAS: 5 (1%) Wants to control government
+ANA: 5 (1%) Wants to become like the Raiders of Zacatecas
+SOC: 5 (1%) Wants to become like the Oaxaca Commune
+EP: 5 (10 TxP)
+IC: 9 (+3.3%)
+Base Cost: 9 EP
+Army: 2 Rifle Infantry, 4 Trencher Infantry, 2 Assault Infantry, 1 Autocar Divisions
+Navy: None
+Air: None
+Reserves: 10 Divisions (+1/turn)
+Army Quality: Good Leadership/Good Training/Average Equipment/Offensive Tactics
+Power Projection: Nonexistent Naval/Nonexistent Air
+Mobilization: 80% (WAR) (Cost: -2 EP/turn)
+
+Nation: The Mayan Kingdom (NPC)
+Population: 597,557
+Stability: 1.9
+Apparatus: Military
+Centralization: Hegemony
+Legitimacy: Appointed
+Action Potential: 8 (5.00% Inertia)
+Government: Monarchist (52.47% Support)
+MON: 35 (85%) Wants to spread the glory of the king to all Mexico
+IMP: 25 (55%) Wants to spread the glory of the king to all Mexico
+DEM: 25 (35%) Wants to stabilize Mexico AND adopt Elective legitimacy
+FAS: 3 (1%) Wants to overthrow government
+ANA: 7 (2%) Wants to become like the Raiders of Zacatecas
+SOC: 5 (1%) Wants to become like the Oaxaca Commune
+EP: 3 (11 TxP)
+IC: 3 (+3.7%)
+Base Cost: 13 EP
+Army: 1 Trencher Infantry, 1 Assault Infantry
+Navy: None
+Air: None
+Reserves: 5 Divisions (+0/turn)
+Army Quality: Ungodly Leadership/Average Training/Average Equipment/Quetzalcouatl Tactics
+Power Projection: Nonexistent Naval/Strong Air
+Mobilization: 90% (WAR) (Cost: -0 EP/turn)
+
+Nation: The Oaxaca Commune (NPC)
+Population: 2,071,927
+Stability: 3.9
+Apparatus: Military
+Centralization: Federation
+Legitimacy: Elective
+Action Potential: 8 (25.00% Inertia)
+Government: Socialist (67.30% Support)
+MON: 10 (45%) Wants to stabilize Mexico
+IMP: 15 (35%) Wants to stabilize Mexico
+DEM: 25 (75%) Wants to stabilize Mexico
+FAS: 5 (1%) Wants to control government
+ANA: 5 (55%) Wants to destroy the non-Socialist governments of Mexico
+SOC: 40 (90%) Wants to spread Socialism to all of Mexico
+EP: 8 (12 TxP)
+IC: 12 (+3.3%)
+Base Cost: 18 EP
+Army: 10 Rifle Infantry, 7 Trencher Infantry, 3 Assault Infantry
+Navy: None
+Air: None
+Reserves: 14 Divisions (+4/turn)
+Army Quality: Average Leadership/Average Training/Average Equipment/Mixed Tactics
+Power Projection: Nonexistent Naval/Nonexistent Air
+Mobilization: 80% (WAR) (Cost: -4 EP/turn)
+
+Nation: The Freeman Republic of Haiti (NPC)
+Population: 2,422,001
+Stability: 5.3
+Apparatus: Bureaucratic
+Centralization: Unitary
+Legitimacy: Elective
+Action Potential: 6 (45.00% Inertia)
+Government: Democrat (64.75% Support)
+MON: 0 (0%) 
+IMP: 10 (25%) Wants to stabilize Mexico
+DEM: 55 (95%) Wants to suppress anti-government forces
+FAS: 5 (10%) Wants to control government
+ANA: 10 (25%) Wants decreased Centralization
+SOC: 20 (35%) Wants increased protection for workers
+EP: 13 (13 TxP)
+IC: 10 (+1.7%)
+Base Cost: 12 EP
+Army: 1 Rifle Infantry, 3 Trencher Infantry, 1 Assault Infantry
+Navy: None
+Air: None
+Reserves: 12 Divisions (+0/turn)
+Army Quality: Good Leadership/Average Training/Average Equipment/Mixed Tactics
+Power Projection: Weak Naval/Weak Air
+Mobilization: 0% (PEACE) (Cost: -0 EP/turn)
+
+Nation: The Sultanate of Oman (NPC)
+Population: 362,287
+Stability: 6.7
+Apparatus: Aristocratic
+Centralization: Hegemony
+Legitimacy: Hereditary
+Action Potential: 7 (55.00% Inertia)
+Government: Monarchist (73.05% Support)
+MON: 45 (90%) 
+IMP: 35 (85%) 
+DEM: 10 (25%) 
+FAS: 0 (0%) 
+ANA: 5 (1%) 
+SOC: 5 (5%) 
+EP: 1 (13 TxP)
+IC: 1 (+1.7%)
+Base Cost: 7 EP
+Army: None
+Navy: None
+Air: None
+Reserves: 1 Divisions (+0/turn)
+Army Quality: Average Leadership/Average Training/Average Equipment/Mixed Tactics
+Power Projection: Weak Naval/Nonexistent Air
+Mobilization: 0% (PEACE) (Cost: -0 EP/turn)
+
+Nation: The Sultanate of Yemen (NPC)
+Population: 3,542,197
+Stability: 6.7
+Apparatus: Aristocratic
+Centralization: Hegemony
+Legitimacy: Hereditary
+Action Potential: 7 (55.00% Inertia)
+Government: Monarchist (73.05% Support)
+MON: 45 (90%) 
+IMP: 35 (85%) 
+DEM: 10 (25%) 
+FAS: 0 (0%) 
+ANA: 5 (1%) 
+SOC: 5 (5%) 
+EP: 15 (13 TxP)
+IC: 5 (+1.7%)
+Base Cost: 7 EP
+Army: 1 Rifle Infantry, 2 Trencher Infantry, 1 Assault Infantry
+Navy: None
+Air: None
+Reserves: 8 Divisions (+0/turn)
+Army Quality: Average Leadership/Average Training/Average Equipment/Mixed Tactics
+Power Projection: Weak Naval/Nonexistent Air
+Mobilization: 0% (PEACE) (Cost: -0 EP/turn)
+
+Nation: The Sultanate of Abu Dhabi (why is this nation in the game (NPC)
+Population: 71,645
+Stability: 6.7
+Apparatus: Aristocratic
+Centralization: Hegemony
+Legitimacy: Hereditary
+Action Potential: 7 (55.00% Inertia)
+Government: Monarchist (73.05% Support)
+MON: 45 (90%) 
+IMP: 35 (85%) 
+DEM: 10 (25%) 
+FAS: 0 (0%) 
+ANA: 5 (1%) 
+SOC: 5 (5%) 
+EP: 0 (13 TxP)
+IC: 0 (+1.7%)
+Base Cost: 1 EP
+Army: None
+Navy: None
+Air: None
+Reserves: 0 Divisions (+0/turn)
+Army Quality: Average Leadership/Average Training/Average Equipment/Mixed Tactics
+Power Projection: Nonexistent Naval/Nonexistent Air
+Mobilization: 0% (PEACE) (Cost: -0 EP/turn)
+
+Nation: The Holy Kingdom of Thailand (Mosher)
+Population: 12,392,001
+Stability: 5.4
+Apparatus: Aristocratic
+Centralization: Hegemony
+Legitimacy: Hereditary
+Action Potential: 5 (50.00% Inertia)
+Government: Democrat (51.40% Support)
+MON: 15 (25%) Wants to increase monarch's power
+IMP: 20 (55%) Wants to dominate Indochina
+DEM: 35 (85%) Wants Elective legitimacy
+FAS: 5 (1%) Wants to overthrow government
+ANA: 10 (1%) Wants to overthrow government
+SOC: 15 (45%) Wants to overthrow government
+EP: 9 (11 TxP)
+IC: 8 (+1.9%)
+Base Cost: 2 EP
+Army: 2 Rifle Infantry, 4 Trencher Infantry, 2 Assault Infantry
+Navy: None
+Air: None
+Reserves: 16 Divisions (+0/turn)
+Army Quality: Average Leadership/Average Training/Average Equipment/Offensive Tactics
+Power Projection: Weak Naval/Nonexistent Air
+Mobilization: 0% (PEACE) (Cost: -0 EP/turn)
+
+Nation: The Sultanate of Morocco (NPC)
+Population: 6,206,001
+Stability: 4.9
+Apparatus: Aristocratic
+Centralization: Hegemony
+Legitimacy: Hereditary
+Action Potential: 4 (45.00% Inertia)
+Government: Imperialist (44.40% Support)
+MON: 25 (75%) Wants to increase monarch's power
+IMP: 30 (75%) Wants to resist European influence
+DEM: 15 (15%) Wants Elective legitimacy
+FAS: 5 (1%) Wants to overthrow government
+ANA: 10 (1%) Wants to overthrow government
+SOC: 15 (5%) Wants to overthrow government
+EP: 19 (10 TxP)
+IC: 9 (+1.9%)
+Base Cost: 12 EP
+Army: 6 Rifle Infantry, 12 Trencher Infantry, 2 Assault Infantry, 2 Autocar Divisions
+Navy: 22 Gunboats
+Air: None
+Reserves: 44 Divisions (+0/turn)
+Army Quality: Average Leadership/Average Training/Average Equipment/Offensive Tactics
+Power Projection: Weak Naval/Nonexistent Air
+Mobilization: 0% (PEACE) (Cost: -0 EP/turn)
+

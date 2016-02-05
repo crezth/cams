@@ -1,0 +1,40 @@
+### These are the country files.
+YEAR: 1931
+CREATE: (Country) "ENG"
+DEFINE: {FullName:The United Kingdom of Great Britain and Ireland}
+.: {Apparatus:Bureaucratic}
+.: {Centralization:Hegemony}
+.: {Legitimacy:Elective}
+.: {Inertia:45}
+.: {MP:350}
+MIDFAS: {25/75, 45/90, 15/45, 10/15, 2/1, 3/5}
+CREATE: (Country) "FRA"
+DEFINE: {FullName:The People's Republic of France}
+.: {Apparatus:Bureaucratic}
+.: {Centralization:Unitary}
+.: {Legitimacy:Elective}
+.: {Inertia:30}
+.: {MP:220}
+MIDFAS: {15/75, 75/90, 5/45, 3/15, 0/1, 2/5}
+CREATE: (Country) "IRL"
+DEFINE: {FullName:The Republic of Ireland}
+.: {Apparatus:Bureaucratic}
+.: {Centralization:Federation}
+.: {Legitimacy:Elective}
+.: {Inertia:40}
+.: {MP:100}
+MIDFAS: {25/75, 45/90, 15/45, 10/15, 2/1, 3/5}
+### These are the regions.
+CREATE: (Region) "Austria"
+DEFINE: {Population:6684000}
+.: {Development:34.0}
+.: {Acceptance:100}
+.: {Occupied:0.0}
+.: {Owner:AUS}
+CREATE: (Region) "Belgium"
+DEFINE: {Population:8076000}
+.: {Development:24.0}
+.: {Acceptance:100}
+.: {Occupied:0.0}
+.: {Owner:BEL}
+END

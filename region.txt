@@ -1,0 +1,7 @@
+### This is for region information
+CREATE: "Austria"
+DEFINE: {Population:6684000}
+.: {Development:34.0}
+.: {Occ:0}
+.: {CC:1.0}
+.: {Owner:AUS}

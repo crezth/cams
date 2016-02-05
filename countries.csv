@@ -1,0 +1,59 @@
+Country,FullName,Apparatus,Centralization,Legitimacy,Inertia,MP,MA,MS,IA,IS,DA,DS,FA,FS,AA,AS,SA,SS
+ENG,The United Kingdom of Great Britain and Ireland,Bureaucratic,Hegemony,Elective,45,339,25,75,45,90,15,45,10,15,2,1,3,5
+FRA,The French Social Democratic Republic,Bureaucratic,Unitary,Elective,25,446,2,20,14,55,30,80,4,1,5,20,45,90
+RUS,The Russian Empire,Aristocratic,Hegemony,Hereditary,70,680,20,90,30,90,12,5,1,20,15,1,22,5
+USA,The United States of America,Aristocratic,Confederation,Elective,40,560,0,0,45,90,35,45,5,15,10,1,5,1
+ITA,The Kingdom of Italy,Aristocratic,Hegemony,Elective,35,189,25,90,20,85,35,85,5,10,5,10,10,15
+AUS,The United Republics of Austria and Bohemia,Cartels,Coalition,Elective,12,36,20,1,5,1,10,55,15,10,35,95,15,25
+HUN,The Hungarian Empire,Aristocratic,Hegemony,Hereditary,35,34,35,85,20,75,25,15,5,10,10,1,5,1
+NET,The Republic of the Netherlands,Bureaucratic,Unitary,Elective,35,49,5,50,35,90,35,90,3,10,5,15,17,20
+GER,The Union of German Workers' Council Republics,Bureaucratic,Coalition,Elective,10,359,10,33,20,33,20,66,10,33,10,10,30,99
+PRR,The People's Republic of the Ruhr,Military,Unitary,Appointed,13,393,10,20,30,75,10,5,10,50,5,1,35,90
+GFA,The German Federalist Alliance,Military,Hegemony,Appointed,13,220,10,65,35,50,15,35,3,5,2,1,35,90
+BWR,The Bavarian Workers' Council Republic,Bureaucratic,Confederation,Elective,8,62,10,1,5,1,35,90,5,1,10,50,35,90
+ALS,The Free Republic of Alsace-Lorraine,Bureaucratic,Unitary,Elective,15,14,5,1,5,1,40,85,5,1,5,5,40,85
+TUR,The Sublime State of Turkey,Military,Unitary,Appointed,20,230,10,55,25,75,10,20,40,98,5,1,10,1
+IND,The Imperial Domain of India,Military,Hegemony,Appointed,60,538,20,75,25,90,15,55,1,1,20,5,19,10
+OCE,The Imperial Domain of Australasia,Military,Hegemony,Appointed,50,158,20,80,30,85,20,75,5,10,15,5,10,10
+SAF,The Imperial Domain of South Africa,Military,Hegemony,Appointed,50,64,20,75,35,90,10,55,5,1,15,5,15,10
+SWI,The Federal Republic of Switzerland,Bureaucratic,Federation,Elective,45,24,10,80,15,85,55,90,3,10,7,5,10,10
+SWE,The People's Republic of Sweden,Military,Unitary,Appointed,20,53,25,30,10,30,15,40,10,1,10,40,30,80
+NOR,The Kingdom of Norway,Aristocratic,Hegemony,Hereditary,35,14,35,85,10,74,30,65,5,1,10,10,10,15
+DMK,The Kingdom of Denmark and Iceland,Aristocratic,Hegemony,Hereditary,35,16,30,85,25,90,20,55,10,1,10,1,5,1
+SPA,The Spanish Republic,Bureaucratic,Unitary,Elective,20,146,20,30,5,20,35,75,10,1,15,15,15,20
+POR,The Kingdom of Portugal,Bureaucratic,Hegemony,Hereditary,35,47,30,85,20,85,25,75,5,5,10,5,10,10
+BEL,The Republic of Belgium,Bureaucratic,Unitary,Elective,25,51,5,45,30,90,45,95,5,5,5,5,10,10
+ROM,The Kingdom of Romania,Aristocratic,Hegemony,Hereditary,45,53,30,85,0,10,25,35,15,1,15,1,15,1
+SER,The Kingdom of Serbia,Aristocratic,Hegemony,Hereditary,45,54,30,85,0,10,25,35,15,1,15,1,15,1
+BUL,The Kingdom of Bulgaria,Aristocratic,Hegemony,Hereditary,45,21,30,85,0,10,25,35,15,1,15,1,15,1
+GRE,The Hellenic Republic of Greece,Aristocratic,Federation,Elective,35,25,25,45,0,10,30,85,10,10,15,10,20,20
+QIN,The Empire of the Great Qing,Bureaucratic,Hegemony,Hereditary,85,441,20,95,35,80,15,15,5,1,10,1,15,1
+NRC,The National Han Republic of China,Military,Coalition,Elective,25,846,15,5,10,55,35,75,10,35,10,45,20,60
+GXI,The Confederation of Guangxi,Aristocratic,Confederation,Hereditary,55,524,35,75,10,75,20,55,10,1,10,10,15,1
+YUN,The State of Yunnan,Aristocratic,Unitary,Hereditary,35,292,40,55,0,10,20,45,5,10,10,5,25,5
+TIB,The Heavenly Domain of Tibet,Aristocratic,Hegemony,Appointed,90,19,50,90,0,10,20,1,5,5,5,10,20,1
+KOR,The Kingdom of Korea,Aristocratic,Hegemony,Hereditary,80,92,55,85,20,85,15,25,0,10,5,10,5,1
+AFG,The Sultanate of Afghanistan,Aristocratic,Hegemony,Hereditary,85,26,55,85,25,45,10,15,0,10,5,1,5,1
+PER,The Persian Empire,Aristocratic,Hegemony,Hereditary,70,52,40,85,30,80,15,25,0,10,5,1,10,1
+ETH,The Kingdom of Ethiopia,Aristocratic,Hegemony,Hereditary,65,72,45,95,15,75,25,35,0,10,5,1,10,1
+COL,The Dominion of Colombia,Military,Unitary,Appointed,55,60,0,0,55,85,10,10,0,10,25,1,10,10
+BRZ,The Democratic Republic of Brazil,Military,Federation,Elective,18,139,20,1,25,45,15,65,5,1,5,55,30,85
+BRA,The Empire of Brazil,Military,Hegemony,Hereditary,50,76,25,75,25,65,15,45,5,10,5,1,25,1
+CEN,The Democratic Republic of Central America,Bureaucratic,Federation,Elective,15,35,0,0,20,50,30,75,10,1,5,25,35,90
+CHL,The Republic of Chile,Bureaucratic,Confederation,Elective,25,22,5,65,25,50,40,80,10,1,5,1,15,10
+ARG,The Republic of Argentina,Bureaucratic,Federation,Elective,28,64,0,0,25,55,45,85,10,1,5,1,15,10
+BOL,The Great Bolivian Empire,Aristocratic,Hegemony,Hereditary,23,35,15,95,45,85,20,15,0,0,10,1,10,1
+PAN,The Dominion of Panama,Military,Unitary,Appointed,55,3,0,0,55,85,10,10,0,10,25,1,10,10
+VER,The Emergency State of Veracruz,Military,Unitary,Appointed,55,7,5,35,35,85,30,25,10,1,10,1,10,1
+SON,The State of Sonora,Military,Hegemony,Appointed,55,10,10,45,30,90,30,55,5,5,15,1,10,15
+RAD,The Raiders of Zacatecas,Military,Anarchy,Appointed,55,2,10,20,15,20,30,20,5,1,30,78,10,10
+RIO,The State of the Rio Grande,Military,Unitary,Appointed,55,10,10,30,30,85,30,35,10,10,10,1,10,1
+MEX,The Mexican Republic,Bureaucratic,Federation,Elective,55,44,10,45,15,65,45,85,5,1,10,5,15,5
+MIM,The Empire of Mexico,Aristocratic,Hegemony,Appointed,55,8,20,85,35,80,30,25,5,1,5,1,5,1
+MAY,The Mayan Kingdom,Military,Hegemony,Appointed,55,4,35,85,25,55,25,35,3,1,7,2,5,1
+OAX,The Oaxaca Commune,Military,Federation,Elective,55,14,10,45,15,35,25,75,5,1,5,55,40,90
+HAI,The Freeman Republic of Haiti,Bureaucratic,Unitary,Elective,55,17,0,0,10,25,55,95,5,10,10,25,20,35
+OMA,The Sultanate of Oman,Aristocratic,Hegemony,Hereditary,55,2,45,90,35,85,10,25,0,0,5,1,5,5
+YEM,The Sultanate of Yemen,Aristocratic,Hegemony,Hereditary,55,16,45,90,35,85,10,25,0,0,5,1,5,5
+ABU,The Sultanate of Abu Dhabi,Aristocratic,Hegemony,Hereditary,55,0,45,90,35,85,10,25,0,0,5,1,5,5
+SIA,The Holy People's Republic of Thailand,Aristocratic,Hegemony,Hereditary,55,17,15,25,20,55,35,85,5,1,10,1,15,45

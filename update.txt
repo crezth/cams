@@ -1,0 +1,12 @@
+### Update text file
+ADJUST: "ENG" {Inertia:-12.00}
+ADJUST: "ENG" {Infantry1:10}
+ADJUST: "ENG" {Infantry2:+5}
+ADJUST: "ENG" {Infantry3:-5}
+CREATE: (Modifier) "Britannia Rule the Waves"
+DEFINE: {Target:ENG}
+.: {Quality:1}
+.: {Effort:100}
+.: {Stab:0.5}
+.: {TXP:5}
+.: {IC:5}

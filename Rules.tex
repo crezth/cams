@@ -1,0 +1,520 @@
+\documentclass[11 pt]{scrartcl}
+\usepackage[utf8]{inputenc}
+
+\title{Guns \& Rye:\\ A How-To On Can's and Can't's\\in the World of \textsl{Blackened Skies}}
+
+\subtitle{A Player's Manual for \textsl{Blackened Skies}}
+
+\author{by Crezth \thanks{Special thanks to Nuke, and; Symphony, FC, \& Masada: my simulationist bros}}
+
+\date{December, 2015}
+
+\begin{document}
+
+\maketitle
+\pagebreak
+\tableofcontents
+\pagebreak
+\section{Preamble}
+
+If you are reading this paper, that means you are either an advanced machine intelligence harvesting all information on the internet in a goneby age centuries hence, OR you are a human individual circabouts 2015 A.D. making an earnest attempt to learn the rules of a forum game.\\
+
+If you are the latter, {\huge\textsl{Welcome!}}, and prepare to be informed and initiated into the game. This document will attempt to explain as clearly as possible how to play in \textsl{Blackened Skies}, and what all those numbers and words mean in the Stats and updates. Lest you entertain further delusion that Nuke spent more than three seconds looking at this, please direct all specific inquiries to forum-user ``Crezth'' (although, y'know, \textsl{don't}, if you can help it). More general questions -- such as who is king of what, and who runs the rackets in Mexico City -- can be addressed to either of us. I am giving you preliminary permission as of right now to use the ``But mom said I could--'' canard on us as many times as it takes for us to realize this was a horrible idea. But yes, welcome to you, game-player! We are very happy to have you!\\
+
+As for those of you who number among the \textsl{former}, however, I would like instead to apologize to you on behalf of all of humanity.\\
+
+For everything.
+
+\section{The Main Idea}
+
+Before we proceed, we should discuss briefly what, exactly, is the purpose of all this nonsense. Why are we doing this? \textsl{Blackened Skies} is, first and foremost, a competitive game, meant to simulate certain aspects of 20$^{th}$ century global politics and economics, with the players attempting to fill the shoes of the movers and shakers. You play the government of a nation, the high ministers with their twirly mustaches and the medallioned generals with their croup sticks, and your mandate -- while largely your own to define -- can usually be summed up so: ``Be thou for the people.'' Strive to govern fairly and lead your nation well, and you can accomplish great things.\\
+
+Before we descend any deeper, there is an important clarification to make on an above point, re: ``competitive game'': There is some level of intended regularity to the rules and mechanics that, while they do not strictly require throat-cutting behavior of the participants, certainly indicate with furtive nods and hand-gestures in the direction of ``do better than the others.'' Nevertheless, it is often the case with roleplaying, free-form games such as this that the players develop sentimentalities and affections that sometimes advise against strictly optimal play. Realizing and understanding that these proclivities are in natural, never-ending conflict is important for contextualizing the circumstances of the game; i.e. \textit{it is just a game. It is not the end of the world if you lose. It is not the end of the world if anything goes wrong. The sun will continue to rise and fall long after all the bits and bytes and memories that constitute all that this game ever was or ever shall be have faded into nothingness.} So don't take it too seriously. If you find that difficult, then try immersing yourself in the horribleness of the world. If someone betrays you, imagine how your ministers would \textsl{actually} feel in that situation. Channel their fury! But above all, have fun. If you find yourself having no fun when you're knee-deep in the slime, then just quit. Life is too short to spend arguing with pasty nerds on the Internet. So, on with the show.\\
+
+\section{The Stats}
+
+Perhaps the most important thing to get started with understanding and interpreting \textsl{Blackened Skies} are the Stats. As the most important vessel of information in a NES/IOT (slightly ahead of written updates and dramatically ahead of featureless maps), the Stats are your cipher to the inner machinations of the world. This section will present some example stats as a reference, and then proceed to break them down at each step.
+
+\pagebreak
+
+\subsection*{Example Stats}
+
+\texttt{Nation: The United Kingdom of Great Britain and Ireland (NPC)\\
+Population: 114,140,343\\
+Stability: 7.6\\
+Apparatus: Bureaucratic\\
+Centralization: Hegemony\\
+Legitimacy: Elective\\
+Action Potential: 4 (45.00\% Inertia)\\
+Government: Imperialist (55.64\% Support)\\
+MON: 16 (75\%) \\
+IMP: 26 (75\%) \\
+DEM: 20 (55\%) \\
+FAS: 29 (45\%) \\
+ANA: 4 (1\%) \\
+SOC: 5 (1\%) \\
+EP: 510 (11 TxP)\\
+IC: 853 (+2.8\%)\\
+Base Cost: 3 EP\\
+Army: 21 Rifle Infantry, 43 Trencher Infantry, 21 Assault Infantry, 19 Autocar Divisions, 16 Lt-Armor Divisions, 8 Md-Armor Divisions\\
+Navy: 50 Gunboats, 66 Destroyers, 16 Submarines, 38 Lt-Cruisers, 28 Hv-Cruisers, 8 Battlecruisers, 12 Dreadnoughts, 20 Battleships\\
+Air: 22 Biplane Squadrons, 10 Monoplane Squadrons, 8 Triplane Bomber Squadrons, 4 Lt-Bomber Squadrons\\
+Reserves: 169 Divisions (+51/turn)\\
+Army Quality: Good Leadership/Good Training/Good Equipment/Mixed Tactics\\
+Power Projection: Global Naval/Global Air\\
+Mobilization: 20\% (ALERT)\\}
+
+As you can see, the stats are a little heady at first glance. DON'T PANIC! We will peel back the veneer and make it clear just what's going on here, piece by piece.
+
+\subsection{Nation Name}
+
+The first item in the stats is rather straightforward: it is (usually) the proper title of your nation or political entity. In parens following the name is an indication of the player's name, if there is a player for that nation; otherwise it is listed as (NPC). Generally, you can hot-join \textsl{Blackened Skies} at any time as an NPC nation, though make sure to contact Nuke first to clear it with him.
+
+\subsection{Population}
+
+This item lists the total population controlled by your nation, straight-up. There is no rounding, it is as exact a calculation as the CAMS engine can manage, which sometimes involves some rounded variables but the given population itself is 100\% accurate as far as the game is concerned. It's a better, free census! Easy. Knowing the exact population you control isn't always helpful, but it does sometimes help contextualize your nation's actions in the scope of the larger world.
+
+\subsection{Stability}
+
+Now we finally get into some stats with some meat on them. Stability is an important stat, and it's so high on the stat block because it is the frontline indicator of The Situation At Large in your country's borders. Stability is calculated based on your government's make-up and the approval of influential factions in your country. Usually a value of around 4 or so is the ``neutral'' point, indicating a fundamentally stable polity, with lower values beginning to tread dangerous ground, with there being more widespread dissent and lack of government legitimacy. As a quick reference:
+
+\begin{itemize}
+\item Stability is $>$ 7.0: Widespread prosperity, dissent is mostly nominal.
+\item Stability is $>$ 6.0: Government activities experience little interference.
+\item Stability is $>$ 5.0: Order is regularized, but requires ongoing maintenance.
+\item Stability is $>$ 4.0: Some protests and homogeneous dissatisfaction.
+\item Stability is $>$ 3.0: Authority's grip is tenuous in some areas.
+\item Stability is $>$ 2.0: Armed resistance to government authority is common.
+\item Stability is $>$ 1.0: Armed, organized resistance to government authority is common.
+\item Stability is $\leq$ 1.0: Civil war, factional conflict, minimal government control.
+\end{itemize}
+
+\subsection{Government \& Internal Politics}
+
+Important to all states and governments is the practice of politics, whereby wheeling and dealing decides the fate of nations. In this game, there are four principle descriptive stats that seek to define the political situation in each country. As always, these are meant as an abstraction, and can never be fully descriptive. However, if you have complaints, please direct them at Sonereal who masterminded this system. I am but a humble thief in the shadow of the Spreadsheet Titan.
+
+\subsection{Apparatus}
+
+Apparatus describes the methods and means that a government deploys in order to exercise its authority. Not all governments accomplish tasks the same way: where in one nation it is possible to simply order a gaggle of devoted peasants to do one’s bidding, in another it is necessary to fill out a lot of paperwork to get that same bidding done. Usually, apparatus has connotations of legitimacy as well, although that is a distinct stat in its own right; nevertheless, some apparatuses are distinctly less pleasant for the people than others. There are three main apparatuses, and a fourth that is currently rare but may become more prominent over time:
+
+\subsubsection*{Military} 
+
+With this apparatus, leaders of the military wield supreme authority in the government. Typically this apparatus solves problems through brute force, and avenues of advance – while they can be meritocratic – are highly prone to corruption. Thanks to the high influence of generals and a lack of effective checks, severe instability can be the work of a single ambitious individual. Like Appointed legitimacy, Military apparatuses are rarely a good long-term solution. However, as you might expect, Military apparatuses are uniquely good at flexing their military might, and when leadership wants to accomplish something, they just do it – no paperwork necessary. On the flip side, should revolution or defeat in war render the country’s military in tatters, one can expect the government’s fall to be not much far behind. ($-$Stability, +Action Potential, ++Dissent Control, +Manpower)
+
+\subsubsection*{Bureaucratic}
+
+With this apparatus, government leaders depend on a (sometimes large) trained civilian population to implement government policy. While often lampooned for inefficiency, bureaucracies are typically one of the best ways to manage large populations, and although they can be labyrinthine and frustrating, usually there’s always a way to redress grievances or represent the interests of all from the biggest groups to the humblest individuals. Although they get the job done, bureaucracies tend to move very slowly and are naturally prone to gathering inertia, making reforms very expensive. (+Stability, +Inertia, +Tax Power, +Dissent Control)
+
+\subsubsection*{Aristocratic}
+
+With this apparatus, the government executes its will indirectly via some aristocratic or authoritative class of individuals that don’t necessarily constitute the core of the state itself. This is the most ``archaic'' apparatus and represents all from good-ol’ boy networks to actual feudal institutions. With an Aristocratic apparatus, decentralized authority is common and the central government must be mindful of keeping its noble constituents happy, or risk its power. Aristocratic apparatuses are inherently anti-populist and tend to cause tension with liberal and radical elements of a population. (++Stability, ++Inertia, $-$Tax Power, $-$Action Potential, $-$Dissent Control, $-$Manpower)
+
+\subsubsection*{Cartels}
+
+The rarest (and, depending on your point of view, newest) apparatus, Cartels is meant to represent a government whose civil authority has been supplanted by a large and out-of-control authority emerging from the private sector. In this apparatus, a private interest or conglomeration of private interests controls and executes the majority of government actions like a business. Cartels tend to be severely undemocratic, and sinisterly repressive in creative ways, but their efficiency and focus on dividends can make them a dangerous foe to more traditional government forms. ($--$Stability, $-$Inertial Gain, +Tax Power, +Action Potential, $-$Dissent Control, $--$Manpower)
+
+\subsection{Centralization}
+
+Centralization describes the model of organization of the government, and the balance of how much authority is centralized in one place (either literally or figuratively) or spread out among a number of lesser bodies. There are six values for centralization, and it tends to be a sliding scale between more and less centralization. Higher centralization is associated with more powerful government but higher sensitivity to dissent, whereas lower centralization is associated with weaker government but also less sensitivity to dissent.
+
+\subsubsection*{Unitary}
+
+This level of centralization refers to a state where all authority is ultimately derived from some central authority. The state and government are assumed to be representative of the whole, with all subdivisions to exist purely on the authority of the central government’s say-so. This is the highest level of centralization. (+++Inertia, ++Tax Power, ++Action Potential, $---$Dissent Control, ++Manpower)
+
+\subsubsection*{Hegemony}
+ 
+This level of centralization refers to a state where the central authority is supreme, like with Unitary, but with exceptional levels of delegation (possibly, for example, bureaucratic or aristocratic). In this model, although technically all power may derive from a central authority, decentralization has been introduced through necessity such that the central government’s practical authority has been diminished in the face of it. (+Inertia, +Tax Power, +Action Potential, $--$Dissent Control, +Manpower)
+
+\subsubsection*{Federation}
+
+The usual: a strong, central government ruling over semi-sovereign states. In this model, the central government is typically seen as supreme over the states, which may have their own governments, and the foremost authority among all of them. Federations are naturally more inclusive and regionally representative than Unitary or Hegemonic governments, but this also curbs their power. ($-$Stability, +Action Potential, +Dissent Control)
+
+\subsubsection*{Confederation}
+
+The inverse of a Federation: a weak, central government ruling alongside several sovereign states. In this model, the central government is nominally in charge of a group of states that are cooperating out of a sense of combined self-interest or community. Although the states are sovereign in a Confederation, typically the union is seen as stronger than the sovereignty, lending popular credence and nascent support to the central government. However, when the going gets tough, it’s not uncommon for some particularly affronted states to get going. ($-$Stability, $-$Inertia, $-$Tax Power, $-$Action Potential, ++Dissent Control)
+
+\subsubsection*{Coalition}
+
+Weaker even than a Confederation, a Coalition describes a partnership of several sovereign states with an almost non-existent central government, if indeed there is any central government at all. As with a Confederation, the sense of community and togetherness is a lot of what keeps the states together, but it’s on a hair-trigger and waiting for a stiff breeze to dissolve. A Coalition of the willing can be very powerful on the combined strength of the strong, independent states, but a Coalition of unwilling states is months, if not weeks, from dissolution. (++Stability, $-$Inertia, $--$Tax Power, $--$Action Potential, $---$Dissent Control, $-$Manpower)
+
+\subsubsection*{Anarchy}
+
+In some ways, Anarchy does not even belong on this scale: under Anarchy, there is no formal government at all. All central authority is either absent or completely impotent. Some people think that this is the state of nature and all people are masters of their own destiny under such a system. Others know that gang rule and warlords are quite common under such a system, and in fact many of those warlords dream themselves kings of a distinctly non-anarchic situation. Think of Anarchy as a power vacuum – and a vacuum is just something that’s waiting to be filled. ($--$Stability, $--$Inertia, $---$Tax Power, $---$Action Potential, $+++$Dissent Control, $--$Manpower)
+
+\subsection{Legitimacy}
+
+Legitimacy is the final descriptive stat for government, and basically represents the claim of rights that a government has: the excuse a government gives for doing stuff like putting people in jail and levying taxes. Legitimacy tends to refer to the status of legality in a nation, and what constitutes legal versus illegal. There are only three values for legitimacy, and differing legitimacies confer different bonuses for stability and government power.
+
+\subsubsection*{Hereditary}
+
+Hereditary legitimacy is basically hereditary rule, old as King Solomon himself, that old bastard. Under this legitimacy, the rulers rule because of the circumstances of their birth. Monarchs deal with the dual factors of their chivalry and obligation to their people (such as it is) and their utter sovereignty in themselves. Older monarchies are a source of pride and nationalism for some people, and as long as things go well, hereditary governments can maintain their façade indefinitely. But when things go very badly, the entire legitimacy can come crumbling down pretty quickly. (+Stability, ++Inertia, +Tax Power, +Action Potential, $--$Dissent Control)
+
+\subsubsection*{Elective}
+
+Elective legitimacy refers to rule by the people, where supreme executive authority derives from the consent of the masses. Elective governments tend to have to jump through more hoops to get things done compared to their Hereditary counterparts, but whereas the quality of a monarchy largely depends on the quality of the monarch, the quality of a republic depends on the strength of its institutions. An Elective government can’t get away with very much without popular approval, but its civil authority doesn’t live and die with its leaders – it outlasts them. ($-$Inertia, $-$Tax Power, $-$Action Potential, $-$Manpower)
+
+\subsubsection*{Appointed}
+
+Under Appointed legitimacy, authority is conferred upon authority by authority – or seized under circumstances of questionable legality. Typically, these rulers rule by military might, intimidation, or reputation; and also typically lack the ancient authority of a monarchy backing their words. Appointed governments walk a tightrope and constantly must execute methods of population control to keep the peace internally. They are fundamentally unstable, but are less sensitive to dissent because they are quite used to resorting to brutal methods when necessary. ($-$Stability, +Inertia, ++Action Potential, $--$Dissent Control, +Manpower)
+
+\subsubsection*{Theocratic}
+
+Under Theocratic legitimacy, authority is derived from something higher than man or mortal affairs: a sacred way of which the government is the keeper. Despite the name, a Theocratic legitimacy need not be purely religious, and can also be used to describe a single-party state or any state where a cabal dedicated to some idea or ideal runs the government. Theocratic legitimacies rely very strongly on widespread acceptance of their ideals to maintain authority, and usually their position of power allows them to indoctrinate their populations effectively -- although those who are not convinced will raise hell to fight it. (++Stability, +++Inertia, ++Tax Power, +Action Potential, $----$Dissent Control)
+
+\subsection{Action Potential}
+
+Action Potential, also AP, is a numerical description of your government's ability to influence events, the raw ``potential'' behind your government's actions. Higher Action Potentials contribute positively towards public works projects, conscription efforts, and other administrative events. Note that Action Potential does not correlate with the efficacy of your \textit{military}, even if that is your Apparatus, so it is quite possible to have an ineffective central government in a prosperous nation with a strong military. In fact, some of your citizens might even \textit{prefer} that!
+
+\subsection{Inertia}
+
+Inertia is also listed on the Action Potential statline and is given as a percentage. It is a description of how ossified your nation's legal, social, and cultural institutions are; how entrenched its values and how difficult it will be to change them. Inertia naturally increases over time, and contributes negatively to advancements and innovations. It is the vaue your Action Potential is weighed against, with higher Inertia countries requiring more actionable governments to get things done. Inertia is typically only decreased following special events that shake things up a bit. Revolutions, or other similar cataclysms, will often decrease Inertia heavily. You will often see many young and nubile Socialist or revolutionary polities wielding very low Inertia scores for this reason.
+
+\subsection{Ideology}
+
+The Government statline, and the six statlines that follow, are a summary of the status of six core ``Ideologies''  in terms of their Influence and Support in the country in question. On the Government line, the most influential/supportive faction is listed (the faction which most contributes to the positive approval of the government), and then the overall support from all segments of the population is given as a percent (which amounts to an ``approval rating''). The following six lines show the Influence first and then how much they individually Support the government. If any of the factions have particular immediate grievances (such as, for example, ``more schools''), they will also be listed.
+
+The six Ideological Factions will now be described. Keep in mind that while these factions are prescriptive in a lot of ways, the way the system works allows for “mixing and matching” in creative ways such that syncretive/coalition governments are possible. For example, a Monarchist/Imperialist support base might belong to a Good Ol’ Empire, whereas an Imperialist/Socialist support base might represent a Stalinist state. The Ideology system will sometimes be referred to as ``MIDFAS'', which is an acronym of the first letter of each of the ideologies. Creative.
+
+\subsubsection*{Monarchist}
+
+Monarchists tend to believe that the king is good, and the rule of kings even better, and so tend to represent the traditionalist, conservative, or outright reactionary elements of a society. Monarchists are nationalist in a very bland sort of way, and their approval can be considered a milquetoast mark of Doing A Good Job. Monarchists dislike change, liberal or democratic reforms, and usually despise Socialists.
+
+\subsubsection*{Imperialist}
+
+Imperialists are a very general group representing those whose primary interest is the spreading of national influence outwards. Imperialists support measures that increase a government’s influence in foreign countries or spread or flex its power on the world stage. They tend to support stronger government edifices, and while they prefer doing things the traditional way, they will quickly swing in the direction of the blowing winds if they feel that those winds will bring greater power and prestige to the motherland, making them a natural ally of Fascists or particularly aggressive Socialists.
+
+\subsubsection*{Democrat}
+
+Democrats are the purestrain Jacobins, republicans, or liberals, whose primary interests are in expanding individual liberty and spreading the ideals of freedom. Democrats strongly favor Elective legitimacy and are fiercely opposed to anti-populist groups or anyone they think threatens to sabotage the pursuit of liberty. They are the sworn enemies of Fascists and not awfully fond of Monarchists. Beware of taking actions that, while necessary, are freedom-reducing, as it is a surefire way to stoke the Democrats' ire.
+
+\subsubsection*{Fascist}
+
+Fascists are the classic bad guys – ah, but we don’t make judgments in this game. Fascists are radical nationalists and usually headed by power-hungry megalomaniacs, and while usually characterized as “far right,” in actuality will support any measure that will increase their own power within the political sphere of their country. Their lust for power and national glory often drives them to heights of jingoism, and as they gain traction they will take any measures necessary to overthrow all that stands between them and absolute power. Fascists are natural enemies of Democrats, but can’t stand Socialists, especially democratic socialists. Don’t count on their support unless you are willing to completely march in their line.
+
+\subsubsection*{Anarchist}
+
+Anarchists are a general group of everyone who is dissatisfied with the government but lacks any greater ideological affinity represented by another group. Unlike someone who merely grumbles in coffee shops about taxes, Anarchists are willing to do something about it – anything, often violently. In Imperialist countries or countries ruling over lots of disparate and oppressed ethnic groups, Anarchists usually seek national self-dependence for a variety of group, and as they gain influence they will stop at nothing but to dismantle the government and, if possible, replace it with nothing, often seeking freedom for their oppressed brethren. Anarchists don’t really align with other groups, except to the end of destroying the government, and their more radical facets absolutely will not negotiate.
+
+\subsubsection*{Socialist}
+
+Socialists are those who ascribe to the ideals of communism, socialism, or any type of anti-capitalism whereby property is redistributed. Like Anarchists, they tend to be severely dissatisfied with non-socialist governments, but unlike Anarchists, Socialists are organized and driven, arguably making them the more dangerous of the two. Socialists come in many flavors, and can be interested in establishing a wide variety of socialist states. Proletarian revolution is their objective, and when they accomplish it at home, it’s a safe bet they’ll be interested in spreading it elsewhere.
+
+\subsection{EP: Economic Points}
+
+Ah, the most classic stat of them all: EP, or ``money'' colloquially. Economic Points represent the financial resources that your government has available for discretionary spending. OK, it's a pipe dream, but it's just an abstraction -- yearly expenditures are not fully represented in this game. However, the value return on major initiatives will often boil down to the effort and persistence you pour into them. Each year, you may spend at least as much EP as is listed in this column, either on military units or projects of your devising. EP that you don't spend is not banked (no EP is ever banked in this game), it is reinvested into the economy. This is the default action for all unspent EP, and yes it has an effect on things.
+
+EP required for upkeep of the nation's strategic assets - i.e. it's military - is automatically deducted.
+
+You may, if you choose, spend \textbf{more} EP than your government legally has access to by issuing sovereign debt. This debt imposes a strain on your economy that increases your Base Cost, reduces your future free EP, and goes away slowly. If you do this too much, your economy will constrict heavily and you run the risk of implosion. So, borrow away -- but be mindful. \textit{(This mechanic is meant to give some flex-spending and eliminate a hard limit, not give you a blank check to do anything you want. Spending aggressively into debt will push it unless you have something to show for it.)}
+
+\subsection{TxP: Tax Power}
+
+Also on the EP stat line is a small number labeled ``TxP''. This is an abbreviation for ``Tax Power'' and represents the efficiency of the government's revenue-collecting operations. Tax Power correlates directly to EP, as it is important in determining what fraction of your nation's total economic power is controlled by the government. ``10'' is a thoroughly average value for Tax Power and most other values will orbit around this.
+
+\subsection{IC: Industrial Capacity}
+
+The guns to EP's butter, Industrial Capacity is a rough measure of the tonnage of manufactured goods produced in your country. Thanks to the wonders of industrialism, this can be quite a remarkable amount. Industrial Capacity is not under the direct control of the government and, unlike EP, it can't be spent on anything. It is mostly useful as an indicator of your country's economic competitiveness. In parens following the value is an indicator of how the economy can be expected to grow over the course of the next year.
+
+\subsection{BC: Base Cost}
+
+BC, or Base Cost, is a normalized value rendered from your Industrial Capacity, and indicates the cost of one ``Unit'' of ``stuff'' in your country, equivalent (generally) to the cost of raising a single division of infantry. When you buy things on the rostered lists in the next section, you are buying them in divisions costed according to their Base Cost. Countries with fewer industrial means at hand will usually find it more expensive to procure the same assets that come cheaper to industrialized countries; on the other hand, higher standards of living and GDP/capita will also increase the cost of labor and offset this inequality to a certain degree.
+
+\subsection{Army, Navy, and Air}
+
+These stats are possibly the only stats more classic than ``EP''. Each line gives a complete accounting of the military assets your government has to command, right down to the smallest discrete unit represented in this engine -- that of the humble Division. A detailed description of each of the military units follows. Pricing information can be found in the pricing section of this document.
+
+\subsection*{Army Units}
+
+\subsubsection*{Rifle Infantry}
+
+Rifle Infantry are basic recon soldiers, typically equipped with long-range rifles and support weaponry, capable of offering tactical flexibility and support to other, meatier divisions. Rifle Infantry are the fusiliers of 1930, and are useful for performing scouting, picketing, and fire support. Rifle Infantry are poor at defending or taking points by themselves, and do best with other divisions. LIKES: Mixed Tactics.
+
+\subsubsection*{Trencher Infantry}
+
+The aptly named Trencher Infantry are masters of trenches, a mixture of combat engineers and trench gun equipped soldiers who specialize in fortifying and defending hard points. Trenchers can dig in and, once they do, are difficult to pull out, especially when supported by Rifle Infantry. Trencher Infantry can attack passably well, but are nowhere near as specialized at it as their Assault brethren. LIKES: Defensive Tactics.
+
+\subsubsection*{Assault Infantry}
+
+Assault Infantry are the stormtroopers, those tasked with breaking enemy hardpoints. Armed with grenades and submachine guns, Assault Infantry are the guys you call in to storm the castle. Assault Infantry are excellent on the offensive and can perform defensive operations as well by acting as spoilers, though they can't match the raw defensive survivability of the Trencher Infantry. LIKES: Offensive Tactics.
+
+\subsubsection*{Autocar Division}
+
+Autocar Divisions are mechanized divisions consisting primarily of armored autocars and half-track transport vehicles. Autocar Divisions are flexible, capable of extending logistics or engaging in quick hit-and-run operations. Autocars play well with Rifle Infantry, who they like to cart around shooting at the local fauna, and can be tough when engaged without the proper support. LIKES: Mixed Tactics.
+
+\subsubsection*{Lt-Armor Division}
+
+Lt-Armor Divisions are divisions deploying armored, tracked autocars, usually mounted with a cannon or main-attack gun that makes them a ferocious blend of attack and defense. All Armor offers additional ``breakthrough'' potential to an army, and the existence of large armies of Armor units helps cement your army's ability to exploit maneuverability advantages. Lt-Armor is relatively quick and nimble, but with the firepower that allows them to track down and take out autocars with ease. LIKES: Offensive Tactics.
+
+\subsubsection*{Md-Armor Division}
+
+Md-Armor Divisions, like their lighter cousins in the Lt-Armor department, are armored autocars with guns and guts. Md-Armor is usually heavier and more heavily armed than Lt-Armor, making them slower but also more dangerous. Md-Armor like having infantry support, and are useful against enemy armor as well as infantry. LIKES: Combined Arms Tactics.
+
+\subsubsection*{A note on artillery...}
+
+You may notice, perusing this unit list, that no artillery units are mentioned. What gives? Well, in \textsl{Blackened Skies}, artillery is assumed come attached to your infantry divisions, and the quality/magnitude of fire they can bring to bear is represented by your Equipment stat, in the Army Quality statline. Artillery support for Rifle Infantry is usually light/heavy mortars; for Trenchers, it's howitzers and heavy guns; and for Assault Infantry, it's field and anti-tank guns.
+
+\subsection*{Naval Units}
+
+\subsubsection*{Gunboats}
+
+Gunboats are the most basic naval asset available, a boat loaded with guns. The boats can use these guns to shoot enemy boats, and they do it pretty well, all things considered. They are small and cheap and lend a little extra punch to your naval force.
+
+\subsubsection*{Destroyers}
+
+The bigger brother of the Gunboats, Destroyers are larger and more heavily armored than Gunboats, and perhaps serve the role as ``quintessential water-based gun platform'' a little better, too. Destroyers have torpedoes and depth charges that help them engage enemy submarines as well.
+
+\subsubsection*{Submarines}
+
+Submarines are a new development in naval technology, boats that can go \textit{under} the water. With their torpedoes and passive sonar systems, Submarines can sneak around and strike your foes from behind their lines. They can't engage in any type of coastal bombardment, however.
+
+\subsubsection*{Lt-Cruisers}
+
+Lt-Cruisers are light cruisers, high-speed, long-range naval vehicles designed to cruise the open waves. Lt-Cruisers have guns for shooting, but their main utility is in their speed and quick response time, and ability to demonstrate your navy's overall control.
+
+\subsubsection*{Hv-Cruisers}
+
+Hv-Cruisers, like Lt-Cruisers, are high-speed, long-range naval vehicles designed to cruise the open waves. Unlike Lt-Cruisers, they are heavy, have lots of guns, and do more than just cruise the waves: they \textit{project power} across them. Hv-Cruisers are the main bad boys of the navy, and are fearsome foes to tango with.
+
+\subsubsection*{Battlecruisers}
+
+``Wow, Hv-Cruisers sound great! I doubt there's anything better than them!'' you said, just now. Wrong, jerk. Battlecruisers are the bossest cruisers around, wielding arms on par with that of a Dreadnought, but with the speed of a Hv-Cruiser. Battlecruisers are frequently the dangerous first response from a powerful navy, cruising in and dropping severe ordnance on any who resist. There is only one force on the open waves more threatening than the Battlecruiser, and it's a lot slower.
+
+\subsubsection*{Dreadnoughts}
+
+Dreadnoughts are the classic capital ships, heavily armored ships with enormous guns and an itch to use them. Dreadnoughts are exceptional at naval battles and coastal bombardment, and can stand and deliver an impressive volume of fire while resisting all but direct hits on its own. In a no-holds barred naval cage match, you want these guys on your side.
+
+\subsubsection*{Battleships}
+
+...but again, just as you thought ``Man, the Dreadnought is AMAZING! I want lots of those!'' you were proven wrong almost instantly. The Battleship is the true king of the waves, boasting the heaviest armor, biggest guns, and meanest temperament of anything on the water. While not quite as fast as their Battlecruiser brethren, Battleships are battle-enders: when they show up, everything either surrenders or dies. Never insult a Battleship's mother, at least so long as you like your hometown in its current, uncratered state. Don't even try adding guns to the Battleship: it has the maximum amount of guns.
+
+\subsection*{Air Units}
+
+\subsubsection*{Biplane Squadrons (Fighters)}
+
+Biplane Squadrons are a squadron -- anywhere from 10 to 24 vehicles -- of biplanes armed with machine guns. This is the golden age of aviation, and biplanes can be found all over the place. These guys are mostly good at fighting other planes.
+
+\subsubsection*{Monoplane Squadrons (Fighters)}
+
+New to the field of aviation, Monoplane Squadrons have only one plane -- two wings. Not as good as two planes and four wings? Wrong. They are faster, more maneuverable, and more heavily armored, owing to their metal-body construction and aerodynamic design. Monoplane Squadrons represent the most advanced means that modern science has concocted for shooting enemy planes out of the sky.
+
+\subsubsection*{Triplane Bomber Squadrons (Bombers)}
+
+Triplane Bomber Squadrons are larger and slower than biplanes, but come equipped with bombs that they can drop on enemy ground forces. Not bad.
+
+\subsubsection*{Lt-Bomber Squadrons (Bombers)}
+
+Lt-Bombers utilize monoplane construction to improve on the bomber design, offering a metal unibody that allows for a larger payload, higher altitudes, and greater speeds. Like Monoplanes and their air-shooting proficiency, Lt-Bombers represent the most advanced means that modern science has concoted for dropping explosives on enemies on the ground.
+
+\subsection{Reserves}
+
+The Reserves stat indicates how many reserve divisions are currently available, ready to be mobilized into active duty units. When you requisition new active duty divisions, they are subtracted from your Reserves. There is a yearly trickle into your Reserves that is based on your level of Mobilization. When you're out of Reserves, you can't requisition any new divisions. You have to mobilize to increase your yearly trickle. You also \textbf{can not spend the yearly trickle on the year before it is applied.} You only have access to the first number in any given year.
+
+\subsection{Army Quality}
+
+There's a lot going on in this stat so pay attention. Army Quality lists qualitative descriptions of four attributes of your military organization. I'm not gonna sugar-coat it for you. If you asked yourself ``How do I know how good my guy-killers are at killing guys?'' you should pay extra attention because this is that.
+
+All these values except Tactics go on a scale of Terrible -- Poor -- Average -- Good -- Excellent.
+
+\subsubsection*{Leadership}
+
+Leadership represents the quality of the high offices of your military, the standards of excellence and the brightness of this generation's particular crop of generals. Leadership is perhaps the most difficult stat to control, but it is also extremely powerful: great military leaders can do more with less, transforming the very institutions they're a part of by virtue of their greatness. Good Leadership will increase the army quality's other stats slowly over time, and overall improves the effectiveness of military units.
+
+\subsubsection*{Training}
+
+Training represents the quality of the military's institutions in reproducing excellence over time. This refers to both the training of individual soldiers from boot camp onwards to the grooming of commissioned officers for positions of high command. Good Leadership often leaves behind a legacy of good Training. Note that this relationship does NOT go both ways, and truly great Leadership won't come from great Training because good Leaders think outside of the box. Training is one of two important stats determining the immediate quality of your combat operations.
+
+\subsubsection*{Equipment}
+
+Equipment represents the quality of the tools, weapons, materiel, and general equipment that the military units rely on to perform their missions. This is largely determined from the quality of equipment you can produce in your own country or which you can procure thanks to close international ties. Good equipment helps the job a lot, and it is perhaps the easiest quality stat to influence -- if you feel like spending the money.
+
+\subsection{Tactics Doctrine}
+
+The final stat in the Army Quality statline is Tactics, a one- or two-word description of the tactical doctrine of your nation's army. There are many different types of doctrines. When you change between them, your Training will take a hit, but otherwise you can do it at will. To put it plainly, these doctrines describe the type of challenges your army is prepared to face against.
+
+\subsubsection*{Mixed Tactics}
+
+Mixed Tactics are the tactics of boring people, mixing certain offensive and defensive elements but focusing on neither -- jack of all types and master of none. Mixed Tactics have no special bonuses but no special weaknesses either.
+
+\subsubsection*{Defensive Tactics}
+
+Defensive Tactics are the tactics of fortress-builders, placing a heavy emphasis on defense in depth and constructing defensive lines. On the offensive, they're very good at establishing space and creating screens, but they tend to move very slowly and run the risk of being outmaneuvered.
+
+\subsubsection*{Offensive Tactics}
+
+Offensive Tactics are the tactics of explosive offense, focusing on breakthrough acquisition and exploiting exposed weaknesses. Emphasis is placed on quick movement and sustained attack, although at the risk of increased casualties and exposed flanks. Offensive Tactics can mount a decent defense, all things said, and will be quite proficient at running counterattacks or performing a fighting retreat.
+
+\subsubsection*{Mass Tactics}
+
+Mass Tactics are the tactics of... well, Jesus Christ, do I really have to say it? The tactics of Mass: using lots of stuff to overwhelm smaller amounts of stuff. Mass Tactics do not confer unique bonuses based on circumstances or force disposition, instead granting their bonuses based on the raw force strength of the army. Mass Tactics doctrine also increases Manpower trickle.
+
+\subsubsection*{Combined Arms Tactics}
+
+Combined Arms Tactics are the tactics of utilizing many different elements in conjunction to greater effect. All operations are improved slightly by good coordination, organization, and communication. Combined Arms Tactics will see greater utility in enhancing effectiveness in an army that uses a diversity of units.
+
+\subsubsection*{Marine Tactics}
+
+Marine Tactics are tactics that focus on operations in and around water. Excellent for performing the light and subtle dance of island-hopping and light watercraft travel, marine tactics are light, flighty, and flexible, and thus massively superior around water. Whenever not around water, however, they drop off dramatically.
+
+\subsubsection*{Police Tactics}
+
+Police Tactics are an inwards-focused military doctrine, not good at invading or seizing territory but very good at conducting domestic espionage and maintaining peace and order among riotous civilians. Police Tactics perform relatively poorly when pitted against other tactical doctrines, but they are exceptionally good at repressing populations. In a civil war scenario, police tactics focus on providing protection and order in exchange for favors.
+
+\subsubsection*{Partisan Tactics}
+
+Partisan Tactics are the exact inverse of police tactics, focused on dislodging authority positions and fighting from the hills and shadows. Partisan Tactics tend to be disorganized and shallow, and tends to avoid major engagements unless they can obtain complete operational surprise. Partisan tactics thrives behind enemy lines and makes things difficult for conventional tactics but struggles when it takes to holding ground in unfamiliar territory (i.e. when invading a foreign country).
+
+\subsubsection*{Antiquated Tactics}
+
+Antiquated Tactics are a catch-all doctrine for tactics that are simply outdated. There's no need to go into details, but they suffer from higher casualties and can be easily outsmarted by commanders following other doctrines. Also, to switch from Antiquated Tactics, you need to do a lot more than announce it -- you need to reform your entire military. Yeah. It sucks.
+
+\subsubsection*{Grande Bolivaro Tactics}
+
+Grande Bolivaro Tactics is the doctrinal legacy left behind by the first great Bolivian Emperor. There is no need to go into details: they do everything a little bit better.
+
+\subsubsection*{Quetzalcouatl Tactics}
+
+There is only one Quetzalcouatl and the King is his Prophet.
+
+\subsection{Power Projection}
+
+The Power Projection statline represents the aggreggate of the quality and reach of your naval and air power. Rather than merely having a quality measurement, this stat shows how much you can reasonably expect to accomplish with your forces. The scale is Nonexistent -- Weak -- Average -- Strong -- Global -- Overwhelming.
+
+\begin{itemize}
+\item Nonexistent: Your ability to project this power is severely limited. If you have any forces at all, they are plagued by weakness and shortages that makes effective operations impossible.
+\item Weak: Your ability to project this power is limited. You can operate at nominal effectiveness within your own borders and in a small region beyond them, but responsiveness outside of your domain is low.
+\item Average: Your ability to project this power is average. You can operate in neighboring regions and spheres with nominal effectiveness, but the further you go the weaker your forces become.
+\item Strong: Your ability to project this power is strong. You can operate well outside of your immediate area and can project into your region very effectively. Having Strong force projection is sufficient to call oneself a Great Power.
+\item Global: Your ability to project this power goes globally. You can operate well anywhere in the world and essentially dominate your immediate region. Having Global force projection is sufficient to call oneself a Superpower.
+\item Overwhelming: Your ability to project this power is unparalleled. You can operate anywhere in the world with very low latency, in fact it's difficult for anybody else to spit without running the risk of smirching your military assets. A maximum of one country at any time can have Overwhelming projection in either Naval or Aerial power, and if they do, it probably indicates Hyperpower status.
+\end{itemize}
+
+\subsection{Mobilization}
+
+Mobilization indicates to what extent the nation's military forces are prepared to engage in projection operations -- and note this means \textit{immediate} preparedness, not overall. You can change this at will to any value between 0\% and 100\%, although your mobilization \textbf{must be announced in the thread before the deadline.} The longer you wait on doing this, the lower a mobilization you will realistically achieve in the space of a single year. For example, if you are at 0\% and announce one hour before the deadline that you intend to go to 100\% mobilization, you'll probably only get so far as 10\%. I don't know; I haven't crunched the numbers yet. Point is that there's a response lag to the mobilization command. Understand?
+
+Mobilization increases upkeep cost (it's 0 at 0\%) but also increases Reserves trickle and lowers Base Cost the higher it goes.
+
+\pagebreak
+
+\section{Pricing Tables}
+
+This section will discuss the kinds of things you can spend EP on, and not waste your time doing it.
+
+\subsection{Military Units}
+
+You can buy the military units in the table below for the Base Cost indicated. When you buy military units, they are added to your active duty forces over the course of the turn -- coming sooner the more IC you have, and later otherwise.
+
+
+\begin{center}
+\large{Army Units}\\
+
+\small{Each Division uses exactly 1 Reserve Division.}\\
+\texttt{\normalsize\begin{tabular}{ | l | c | c | }
+\hline
+Division & Base Cost & \# Bought \\
+\hline
+Rifle Infantry & 1 & 2 \\
+Trencher Infantry & 1 & 1 \\
+Assault Infantry & 1 & 1 \\
+Autocar Division & 2 & 1 \\
+Lt-Armor Division & 3 & 1 \\
+Md-Armor Division & 4 & 1 \\
+\hline
+\end{tabular}\\}
+
+\hfill \break
+
+\large{Navy Units}\\
+
+\texttt{\normalsize\begin{tabular}{ | l | c | c | }
+\hline
+Ship & Base Cost & \# Bought\\
+\hline
+Gunboat & 1 & 1\\
+Destroyer & 2 & 1\\
+Submarine & 4 & 1\\
+Lt-Cruiser & 3 & 1\\
+Hv-Cruiser & 5 & 1\\
+Battlecruiser & 8 & 1\\
+Dreadnought & 7 & 1\\
+Battleship & 13 & 1\\
+\hline
+\end{tabular}}\\
+
+\hfill \break
+
+\large Air Units\\
+
+\texttt{\normalsize\begin{tabular}{ | l | c | c | }
+\hline
+Squadron & Base Cost & \# Bought\\
+\hline
+Biplane & 3 & 1\\
+Monoplane & 5 & 1\\
+Triplane Bomber & 4 & 1\\
+Lt-Bomber & 8 & 1\\
+\hline
+\end{tabular}}\\
+\end{center}
+
+
+\subsection{Custom Projects}
+
+So now you know how much military units cost, but the question remains -- and has probably been circling around in your head -- ``Just how do I deal with all this information?'' Well, all the stats you've looked at, although many of them are calculated according to the cold algorithms occupying my hard drive and parts of the cloud, can be influenced by \textbf{you} and your decision-making. This game heavily encourages that you come up with your own Custom Projects, and really these can be anything and everything, from something as simple as a war bonds drive to something as complex as emphasizing your industry through export-substitution industrialization. Anything you want to do, you should probably spend some hard EP to help achieve. How much is enough? Whatever you can spare! Just remember that your Action Potential and your Inertia will dictate somewhat the realistic bounds of what you can expect to accomplish. But more importantly than that, the quality of your orders and the depth of your planning can go a long way.
+
+\section{Sending Orders}
+
+Now that you have some idea of how all these moving parts interact, it's time to get into how to send orders. I won't spend too long on this -- many of you probably already know quite well how to send orders -- but just as a refresher:
+
+\begin{itemize}
+\item Include your spending orders in clear, unambiguous language. Unspent EP is recycled back into the economy (NOT wasted!) so your spending orders do not need to be comprehensive.
+\item If you don't feel like doing math, don't sweat it. Just ballpark it and tell us how much of a thing you want. You may accrue a little debt if you do this, but a little debt won't kill you.
+\item On that note, feel free to send inexact spending orders. This is not the same as unclear spending orders: I mean like, ``Spend a fourth of the income on my ISI program, a fourth of the income on raising new infantry, a fourth of the income on spying on China, and bank the rest.'' That's TOTALLY acceptable!
+\item Send orders to at least \textbf{Nuka}. You may also PM them to me if you want feedback on something, but it's not necessary.
+\end{itemize}
+
+\section{Final Thoughts \& Rules Of Thumb}
+
+\subsection{Vassals}
+
+Some countries in this game are ``vassals,'' or in other words, states that are legally beholden to other states, called suzerains. The controlling state usually has a great deal of de facto control over the vassal, but, at least nominally, the vassal manages its own affairs.
+
+If you are playing as a vassal state, you must keep in mind that your suzerain has more influence over you than another state might. They will have access to a number of levers that give them some control of your government, so it is worth toeing the line lest you incur their wrath. Nevertheless, it’s not all bad being a vassal. You’re not always personally responsible for handling international affairs: if any country picks a fight with you, they also pick a fight with your suzerain.
+
+If you are playing as a suzerain, keep in mind that you’re responsible for your vassals. If they do something stupid, that’s something that you have to take care of. Not only that, but if things start getting really bad in a vassal state – you know, stability-wise – you’ll probably have to move on in there and clean things up. On the other hand, having a vassal is usually better than directly ruling an unruly populace – and you still get a large fraction of the tax income that that vassal earns. It’s a toss-up. A vassal that gets into an extraordinarily bad condition is usually weak enough to justify a direct annexation, but be careful that you aren’t stepping on anyone else’s toes!
+
+\subsection{Land Warfare}
+
+Here’s just a few things to keep in mind for perpetrating your wars on the land:
+
+Attrition’s a jerk. In fair weather situations, it’s not as bad, but in hostile or extreme territories attrition whittles your force down something fierce.  A good rule of thumb is 0.1\% of your army lost to disease and attrition per day in hostile territory; twice that in hostile, nasty territory.
+
+If things can go wrong, they will. No plan is perfect.
+
+Attacking is hard. Sometimes it’s better to siege a fortified position than to attempt to assault it. It’s even better to defend if you can help it.
+
+Training is determinant in how good your soldiers are at doing the soldier things, like march and load guns. It’s important, but sometimes doing is the best learning.
+
+Leadership is very important: it trickles into everything. Good leaders keep the morale of their men high, know how to push them without exhausting them, and are creative and insightful tacticians. Bad leaders do none of these things.
+
+Experienced armies know war. They are more resilient to exhaustion and morale loss and they can feel the course of battle in their blood. Experience, unfortunately, cannot be taught, so as an experienced army loses its parts and replaces them with fresh troops, it also loses some of its experience.
+
+An army needs stuff to do stuff. It gets that stuff by means of lines of supply. The further away from your territory you deploy your soldiers, the more stressed your logistical situation becomes.
+
+Finally, the most important rule of warfare: numbers matter. A lot. More mans and guns equals more winning
+
+\subsection{Naval Warfare}
+
+Naval bases are important. Your navy can’t sail all around the world without needing a safe haven to dock and restock between missions. If you want your navy to do things, make sure there are friendly harbors nearby.
+
+Experienced sailors can tap into the high skill cap demanded of sailors in the 20th century. Highly experienced sailors are therefore much more effective than inexperienced ones.
+
+Don’t be deceived by the fact that boats can’t paint your color on the map: sailing is the fastest way to get around, and the principle way that goods are moved. Find a way to work that to your advantage.
+
+\subsection{Final Notes}
+
+In conclusion, that about sums it up. Yeah, impressive, I know. Feel free to hit me up for clarifications or critiques; I'm on Chatango sometimes and Steam and Skype other times.\\
+
+Thanks for reading!
+
+\end{document}

@@ -1,0 +1,39 @@
+### Constant stat values
+
+GOVERNMENT.
+###			BS	ID	BT	BAP	UC	BMP		BS
+Unitary		6	6	12	6	1.5	0.0950	1.7
+Hegemony	6	2	11	5	1	0.0900	1.7
+Federation	5	1	10	5	-0.5	0.0850	2.0
+Confederation	5	0	9	4	-1.0	0.0800	2.0
+Coalition	7	-1	8	3	1.5	0.0750	2.3
+Anarchy		4	-2	5	2	-1.5	0.0700	2.6
+
+LEGITIMACY.
+
+Hereditary	1	1	1	1	1.0	0.00	0.0
+Elective	0	-0.5	-1	-1	0.0	-0.01	0.0	
+Appointed	-1	0.5	0	2	-1.0	0.01	0.0
+
+APPARATUS.
+
+Military	-1	-0.5	0	1	-1.0	0.02	0.2
+Bureaucratic	1	0.5	1	0	-0.5	0.01	0.2
+Aristocratic	2	1.0	-1	-1	1.0	-0.01	-0.2
+Cartels	-1	-1.0	1	1	0.5	-0.02	0.0
+
+FACTIONS.
+##			MIL		MIN
+Monarchist	0.75	0.25
+Imperialist	0.75	0.25
+Democrat	1.50	0.50
+Fascist		2.25	0.90
+Anarchist	0.50	0.55
+Socialist	2.00	0.55
+
+LEGALISM.
+
+Unitarian
+Libertarian
+Communitarian
+Utilitarian

@@ -1,0 +1,32 @@
+\contentsline {section}{\numberline {1}Preamble}{3}
+\contentsline {section}{\numberline {2}The Main Idea}{3}
+\contentsline {section}{\numberline {3}The Stats}{4}
+\contentsline {subsection}{\numberline {3.1}Nation Name}{5}
+\contentsline {subsection}{\numberline {3.2}Population}{5}
+\contentsline {subsection}{\numberline {3.3}Stability}{6}
+\contentsline {subsection}{\numberline {3.4}Government \& Internal Politics}{6}
+\contentsline {subsection}{\numberline {3.5}Apparatus}{6}
+\contentsline {subsection}{\numberline {3.6}Centralization}{8}
+\contentsline {subsection}{\numberline {3.7}Legitimacy}{9}
+\contentsline {subsection}{\numberline {3.8}Action Potential}{10}
+\contentsline {subsection}{\numberline {3.9}Inertia}{11}
+\contentsline {subsection}{\numberline {3.10}Ideology}{11}
+\contentsline {subsection}{\numberline {3.11}EP: Economic Points}{13}
+\contentsline {subsection}{\numberline {3.12}TxP: Tax Power}{13}
+\contentsline {subsection}{\numberline {3.13}IC: Industrial Capacity}{13}
+\contentsline {subsection}{\numberline {3.14}BC: Base Cost}{14}
+\contentsline {subsection}{\numberline {3.15}Army, Navy, and Air}{14}
+\contentsline {subsection}{\numberline {3.16}Reserves}{17}
+\contentsline {subsection}{\numberline {3.17}Army Quality}{18}
+\contentsline {subsection}{\numberline {3.18}Tactics Doctrine}{18}
+\contentsline {subsection}{\numberline {3.19}Power Projection}{20}
+\contentsline {subsection}{\numberline {3.20}Mobilization}{21}
+\contentsline {section}{\numberline {4}Pricing Tables}{22}
+\contentsline {subsection}{\numberline {4.1}Military Units}{22}
+\contentsline {subsection}{\numberline {4.2}Custom Projects}{22}
+\contentsline {section}{\numberline {5}Sending Orders}{23}
+\contentsline {section}{\numberline {6}Final Thoughts \& Rules Of Thumb}{23}
+\contentsline {subsection}{\numberline {6.1}Vassals}{23}
+\contentsline {subsection}{\numberline {6.2}Land Warfare}{24}
+\contentsline {subsection}{\numberline {6.3}Naval Warfare}{24}
+\contentsline {subsection}{\numberline {6.4}Final Notes}{25}
